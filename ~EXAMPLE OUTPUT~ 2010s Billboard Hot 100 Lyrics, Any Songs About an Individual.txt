@@ -1,0 +1,6092 @@
+FROM FILE: shs mnt checked - VERIFIED - Billboard Hot 100 (2010-01-02 -- 2016-12-31, t=100).xlsx
+RUN DATE: 2018-03-11 12:51:42.705822
+Response 200: 73
+Response 404: 11
+Total: 84
+--------------------------------------------------
+--------------------------------------------------
+
+['Alexandra Stan', 'Mr. Saxobeat']
+First appearance on Billboard Hot 100: 2011-07-30
+Link attempted: https://genius.com/alexandra-stan-mr-saxobeat-lyrics
+Link response: <Response [200]>
+
+
+
+[Hook]
+You make me dance, bring me up, bring me down, plays it sweet
+Make me move like a freak, Mr. Saxobeat
+Makes me dance, brings me up, brings me down, plays it sweet
+Makes me move like a freak, Mr. Saxobeat
+You make me dance, bring me up, bring me down, plays it sweet
+Make me move like a freak, Mr. Saxobeat
+Makes me dance, brings me up, brings me down, plays it sweet
+Makes me move like a freak, Mr. Saxobeat
+
+[Post-Hook]
+Oh oh oh girl, mmm yeah, mmm yeah, mmm yeah
+Oh oh, girl, mmm yeah, mmm yeah, mmm yeah
+Oh, girl, mmm yeah, mmm yeah, mmm yeah
+Oh oh, girl, mmm yeah, mmm yeah, mmm yeah
+Mr. Saxobeat
+Mr. Saxobeat
+
+[Verse 1]
+Hey sexy boy, set me free
+Don't be so shy, play with me
+My dirty boy, can't you see
+That you belong next to me
+Hey sexy boy, set me free
+Don't be so shy, play with me
+My dirty boy, can't you see
+You are the one I need
+
+[Hook]
+You make me dance, bring me up, bring me down, plays it sweet
+Make me move like a freak, Mr. Saxobeat
+Makes me dance, brings me up, brings me down, plays it sweet
+Makes me move like a freak
+You make me dance, bring me up, bring me down, plays it sweet
+Make me move like a freak, Mr. Saxobeat
+Makes me dance, brings me up, brings me down, plays it sweet
+Makes me move like a freak
+
+[Post-Hook]
+Oh oh oh girl, mmm yeah, mmm yeah, mmm yeah
+Oh oh, girl, mmm yeah, mmm yeah, mmm yeah
+Oh, girl, mmm yeah, mmm yeah, mmm yeah
+Oh oh, girl, mmm yeah, mmm yeah, mmm yeah
+
+[Hook]
+You make me dance, bring me up, bring me down, play it sweet
+Make me move like a freak, Mr. Saxobeat
+Make me dance, bring me up, bring me down, plays it sweet
+Make me move like a freak
+
+[Outro]
+You make me dance, bring me up, bring me down
+Mr. Saxobeat
+You make me dance, bring me up, bring me down
+Mr. Saxobeat
+
+
+--------------------------------------------------
+
+['Amine', 'Caroline']
+First appearance on Billboard Hot 100: 2016-09-24
+Link attempted: https://genius.com/amine-caroline-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Listen man
+What's up?
+I heard you done got you a dime piece, man
+Hell naw, man
+One of them Beyoncé, Meagan Good types, man
+Nah, nah, nah
+Is that true, man?
+I just wanna know
+Probably not
+I mean, shit to be honest with you, man, she's a...
+
+[Verse]
+Bad thang, fine as hell, thick as fuck
+Oh my god, that's my baby
+Caroline, you divine
+Mighty fine
+Shawty really blow the pipe (that's true)
+Like a pro
+Aha, fuck you thought?
+Holy shit, I'm really lit
+It's looking like it's 'bout time to fuck it up
+Caroline, listen up, don't wanna hear
+About ya horoscope or what the future holds
+Shut up and shut up and
+Let's get gory, like a Tarantino movie
+Don't wanna talk it out, can we fuck it out?
+Cause we gon' be up all night, fuck a decaf
+You say I'm a tall thug, guess I'm a G-raffe
+If ya want safe-sex, baby use the knee pads
+Freaky with the sticky icky
+Baby give me kitty kitty
+Killa, westside nigga
+Boy you like 98 degrees
+And I'm 300, nigga keep ya feet runnin'
+I chief keef keef when I eat these beats
+Better boy get scurred
+Don't run up in my lane, I don't want you in my lane
+You a lame, get swerved
+
+[Chorus]
+Cause great scenes might be great
+But I love your bloopers
+And perfect's for the urgent
+Baby I want forever
+Caroline, don't you see that
+I want you to be my
+
+[Verse]
+Bad thang, fine as hell, thick as fuck
+Oh my god, that's my baby
+Caroline, you divine
+Mighty fine
+Shawty really blow the pipe (that's true)
+Like a pro
+Aha... what?
+Holy shit, I'm really lit
+It's looking like it's 'bout time to fuck it up
+Caroline, listen up, don't wanna hear
+About ya horoscope or what the future holds
+Shut up and shut up and
+Let's get gory, like a Tarantino movie
+Don't wanna talk it out, can we fuck it out?
+Cause we gon' be up all night, fuck a decaf
+You say I'm a tall thug, guess I'm a G-raffe
+If ya want safe-sex, baby use the knee pads
+Freaky with the sticky icky
+Baby give me kitty kitty
+Killa, westside nigga
+Boy you like 98 degrees
+And I'm 300, nigga keep ya feet runnin'
+I chief keef keef when I eat these beats
+Bet a boy get scurred
+Don't run up in my lane, I don't want you in my lane
+You a lame, get swerved
+
+[Chorus]
+Cause great scenes might be great
+But I love your bloopers
+And perfect's for the urgent
+Baby I want forever
+Caroline, don't you see that
+I want you to be my
+
+[Outro]
+Bad thang, bad, bad, bad, bad thang, thang, thang, thang, thang
+Bad thang, thang, bad, bad, bad, b-b-bad, thang, thang
+Bad thang, thang, thang, bad, b-bad, bad thang, thang, thang
+Bad thang, thang, bad, bad, bad, b-b-bad
+
+
+--------------------------------------------------
+
+['Andrew McMahon In The Wilderness', 'Cecilia And The Satellite']
+First appearance on Billboard Hot 100: 2015-09-12
+Link attempted: https://genius.com/andrew-mcmahon-in-the-wilderness-cecilia-and-the-satellite-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+I locked myself in a hotel room
+Then waited all night for the walls to move
+I've loved some girls that I barely knew
+I've made some friends, and I've lost some too
+Crashed my car, I was seventeen
+My mother in the seat riding next to me
+The things I've learned from a broken mirror
+How a face can change when a heart knows fear
+For all the things my eyes have seen
+The best by far is you
+
+[Chorus]
+If I could fly
+Then I would know
+What life looks like from up above and down below
+I'd keep you safe
+I'd keep you dry
+Don't be afraid, Cecilia
+I'm the satellite
+And you're the sky
+
+[Verse 2]
+I've cafe crawled through Amsterdam
+Been around the world with a punk rock band
+And I've seen London, and I've played Japan
+I've been knocked down, I got up again
+For all the places I have been
+I'm no place without you
+
+[Chorus]
+If I could fly
+Then I would know
+What life looks like from up above and down below
+I'd keep you safe
+I'd keep you dry
+Don't be afraid, Cecilia
+I'm the satellite
+And you're the sky
+
+[Post-Chorus]
+I'm the satellite
+And you're the sky
+
+[Bridge]
+For all the things my hands have held
+The best by far is you
+
+[Chorus]
+If I could fly
+Then I would know
+What life looks like from up above and down below
+I'd keep you safe
+I'd keep you dry
+Don't be afraid, Cecilia
+I'm the satellite
+And you're the sky
+
+[Outro]
+And you're the sky
+I'm the satellite
+And you're the sky
+And you're the sky
+
+
+--------------------------------------------------
+
+['Avril Lavigne', 'Alice']
+First appearance on Billboard Hot 100: 2010-03-20
+Link attempted: https://genius.com/avril-lavigne-alice-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+Tripping out, spinning around
+I'm underground, I fell down
+Yeah, I fell down
+I'm freaking out, so where am I now?
+Upside down and I can't stop it now
+It can't stop me now, oh
+
+[Chorus]
+I, I'll get by
+I, I'll survive
+When the world's crashing down, when I fall and hit the ground
+I will turn myself around, don't you try to stop me
+I, I won't cry
+
+[Bridge]
+I found myself (myself) in Wonderland
+Get back on (back on) my feet again
+Is this real? (this real) Is this pretend?
+I'll take a stand (a stand) until the end
+
+[Chorus]
+I, I'll get by
+I, I'll survive
+When the world's crashing down, when I fall and hit the ground
+I will turn myself around, don't you try to stop me
+I, I won't cry
+I, I'll get by
+I, I'll survive
+When the world's crashing down, when I fall and hit the ground
+I will turn myself around, don't you try to stop me
+I, I won't cry
+
+
+--------------------------------------------------
+
+['B.o.B Featuring Priscilla', 'John Doe']
+First appearance on Billboard Hot 100: 2014-04-12
+Link attempted: https://genius.com/bob-john-doe-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro: Priscilla Renea]
+Seems like your heart stops workin'
+The minute they close the curtain
+You take off your mask
+And take off your costume
+And if anyone asks you're
+Taking a smoke break, you
+Drinking some coffee
+But everyone knows what you're doin'
+Seems like the bus moves slower
+Just 'cause you got somewhere to go, so
+You take a few pills in Beverly Hills
+But if anyone asks you've
+Got a prescription, you
+Got an addiction
+Who do you think that you're foolin'?
+
+[Hook: Priscilla Renea]
+John Doe
+I just want the John I know
+Once you put the drinks on hold
+Maybe you could come back home
+John Doe
+Oh-oh-oh, oh-oh-oooooh, oh-oh-oh, oh-oh-oh
+Oh-oh-oh, oh-oh-oooooh, oh-oh-oh, oh-oh
+
+[Verse 1: B.o.B]
+Ah
+Errybody's addicted to somethin'
+Errybody got a grip onto somethin'
+Even if it's just to feel the response of appeal
+Maybe once, maybe twice
+Maybe hundreds of times, hundreds of times
+Without it, it's just harder to function at times
+You race to the bottom of every single bottle
+As if there was someone or somethin' to find
+You struggle in your mind
+And you tell yourself lie after lie
+'Til you get to the point where it's no longer private
+The people that you work with notice the signs
+When you walk in the room it gets noticeably quiet
+So you break up the silence
+You say you've been at the gym
+But the way that you look, can't blame on the diet
+So what you hidin'?
+
+[Hook: Priscilla Renea]
+John Doe
+I just want the John I know
+Once you put the drinks on hold
+Maybe you could come back home
+John Doe
+Oh-oh-oh, oh-oh-oooooh, oh-oh-oh, oh-oh-oh
+Oh-oh-oh, oh-oh-oooooh, oh-oh-oh, oh-oh
+
+[Verse 2: B.o.B]
+Yeah
+I probably had too many things
+Smashed too many freaks
+Had too much to dro...
+I mean, had too much to drink
+Left the club, ended up in custody
+Random drug test, passed it luckily
+My girl broke up with me 'cause she walked in suddenly
+With a woman up under me
+I told her "Wait!
+It ain't what it look like!
+I must've slipped and fell, clumsy me!"
+Well at least I admit it
+'Cause the worst you could do is to do it and not be man enough to say that you did it
+That's just how you prevent it
+Well I ain't no different, I love all the money, the fame and the parties with beautiful women
+I spent so much time as a underground artist 'cause I was afraid to succumb to the business
+And what I'd become
+But that what you'd judge you become
+The path with the greatest resistance
+That's how the tables can turn, when they pivot and change your perspective and flip your entire position
+My whole life I've been dyin' and wishin' to live and experience everything possible
+When I told them my dreams, they just said they ain't logical, now I can see it, it's optical
+
+[Hook: Priscilla Renea]
+Oh-oh-oh, oh-oh-oooooh, oh-oh-oh, oh-oh-oh
+Oh-oh-oh, oh-oh-oooooh, oh-oh-oh, oh-oh
+John Doe
+I just want the John I know
+Once you put the drinks on hold
+Maybe you could come back home
+John Doe
+
+
+--------------------------------------------------
+
+['Big Sean Featuring Kanye West & Roscoe Dash', 'Marvin & Chardonnay']
+First appearance on Billboard Hot 100: 2011-08-06
+Link attempted: https://genius.com/big-sean-marvin-and-chardonnay-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro: Kanye West & Big Sean]
+Yeah, you know a nigga
+Don't really wanna take his cool off, uh
+(Boi, do it!) I digress, it's
+
+[Hook: Roscoe Dash]
+Early in the morning when she’s all alone
+I’mma take my time, do it how we want it
+Just to set the mood, girl
+I brought some Marvin Gaye and Chardonnay
+
+[Interlude: Kanye West]
+Hold up, hold up, hold up, hold up, hold up
+Hold up, hold up, hold up, hold up, hold up, yeah
+
+[Verse 1: Big Sean]
+She love the way I’m doing it (she do it)
+So G.O.O.D. she won't put my tattoo on it
+Bottom line is, you the finest
+Gave you a new name (what's that, what's that?) My bitch
+Hold up, hold up, whoa there, let's capture this moment
+If I hit it then I own it, marijuanin' every mornin
+And patroning girl, we groaning
+But that pussy got me feeling like a kid
+With the street lights on, street lights on-on?
+You know I gotta go in 'til it’s
+
+[Hook: Roscoe Dash]
+Early in the morning when she’s all alone
+I’mma take my time, do it how we want it
+Just to set the mood, girl
+I bought some Marvin Gaye and Chardonnay
+So just let the song play (And I'mma give it to ya)
+The long way (And give it to ya)
+The strong way (We at it all day)
+It’s our day (It's like this always)
+It’s our way (After a long day)
+This was all inspired by a little Marvin Gaye and Chardonnay
+
+[Interlude: Kanye West]
+Hold up, hold up, hold up, hold up
+Hold up, hold up, hold up
+
+[Verse 2: Kanye West]
+Talk to the, talk to the, hand
+Bitch, you talking to a grown ass man
+It’s like, way-way-way too much up in your pants
+For us not to make the bed squeak
+(There goes the bed sheets)
+Everybody rip the swag off 'fore I rip the tag off
+Why my pants sag off? 'Cause I’m rapping my ass off
+Flow so ugly, money so handsome
+This the fucking anthem, get it? The fucking anthem
+
+[Hook: Roscoe Dash]
+Early in the morning when she’s all alone
+I’mma take my time, do it how we want it
+Just to set the mood, girl
+I bought some Marvin Gaye and Chardonnay
+So just let the song play (And I'mma give it to ya)
+The long way (And give it to ya)
+The strong way (We at it all day)
+It’s our day (It's like this always)
+It’s our way (After a long day)
+This was all inspired by a little Marvin Gaye and Chardonnay
+
+[Interlude: Kanye West]
+I be saying, I, uh, I think
+When I know, uh, just because..
+
+[Verse 3: Kanye West & Big Sean]
+I don’t really wanna, uh, talk too much shit
+But you love it when I talk like I lost it
+And I love how you look when you blazin’
+And I swear you turn at least half Asian
+And we about to have a liaison
+She so cool, give head with her shades on
+You should just go and throw a cape on
+And it’s just so amazing
+(So amazing, so amazing)
+Take it to the car, bloop, bloop
+That shit look like I’m speed racing
+Leavin' with me, it’ll boost your reputation
+Westside is where I’m stationed
+Spend all night, just champagne tasting
+Ain't no rush girl, let's just pace it 'til it's
+
+[Hook: Roscoe Dash]
+Early in the morning when she’s all alone
+I’mma take my time, do it how we want it
+Just to set the mood, girl
+I bought some Marvin Gaye and Chardonnay
+So just let the song play (And I'mma give it to ya)
+The long way (And give it to ya)
+The strong way (We at it all day)
+It’s our day (It's like this always)
+It’s our way (After a long day)
+This was all inspired by a little Marvin Gaye and Chardonnay
+
+[Outro: Roscoe Dash]
+And this was all inspired
+By a little Marvin Gaye and Chardonnay
+
+
+--------------------------------------------------
+
+['Bobby Shmurda', 'Bobby Bitch']
+First appearance on Billboard Hot 100: 2014-11-01
+Link attempted: https://genius.com/bobby-shmurda-bobby-bitch-lyrics
+Link response: <Response [200]>
+
+
+
+[Produced By DONDRE]
+
+[Intro]
+Bobby, bitch, oh, you ain't know?
+Bobby, bitch, Bobby, bitch
+
+[Pre-Hook]
+Bodies bitch, make that body flip
+You know I don't know karate, bitch
+We droppin' bodies, bitch
+They say shootin' is my hobby, bitch
+And I'm a problem, kid
+Walk up on him with revolvers
+I ain't with that talkin' shit, shhh...
+
+[Hook]
+Bobby, bitch, oh, yeah, I'm Bobby, bitch
+Oh, you ain't know? They call me
+Bobby, bitch, oh, yeah, I'm Bobby, bitch
+Oh, you ain't know? They call me
+Bobby, bitch, oh, yeah, I'm Bobby, bitch
+Oh, you ain't know? They call me
+Bobby, bitch, Bobby, bitch
+
+[Verse 1]
+And I'm down to catch a body, bitches, hit that hommy switch
+And I bet that all these hollow tips gon' make his body twitch
+But if I hit you with the shotty, bitch, I bet that body flip
+Rasha caught him with them zombie tips and made his body spin
+You niggas leap, you feelin' froggy, bitch, my niggas doggies, bitch
+Run up on him with that forty, bitch and go retarded, bitch
+Fuck ya feelings, ain't no sorries, bitch, no sorries, bitch
+Shoot that nigga and his shorty, bitch, shorty, bitch
+[Pre-Hook]
+Bodies bitch, make that body flip
+You know I don't know karate, bitch
+We droppin' bodies, bitch
+They say shootin' is my hobby, bitch
+And I'm a problem, kid
+Walk up on him with revolvers
+I ain't with that talkin' shit, shhh...
+
+[Pre-Hook]
+Bodies bitch, make that body flip
+You know I don't know karate, bitch
+We droppin' bodies, bitch
+They say shootin' is my hobby, bitch
+And I'm a problem, kid
+Walk up on him with revolvers
+I ain't with that talkin' shit, shhh...
+
+[Hook]
+Bobby, bitch, oh, yeah, I'm Bobby, bitch
+Oh, you ain't know? They call me
+Bobby, bitch, oh, yeah, I'm Bobby, bitch
+Oh, you ain't know? They call me
+Bobby, bitch, oh, yeah, I'm Bobby, bitch
+Oh, you ain't know? They call me
+Bobby, bitch, Bobby, bitch
+
+[Verse 2]
+And I'm shootin' niggas left to right if they ain't steppin' right
+My lil nigga keep that weapon tight, he'll leave you dead on sight
+Look lil nigga, we the flexin' type, you feel like flexin', aight?
+Put a bullet in ya head tonight, we leave you dead tonight
+Tell that bitch I need some head tonight, I got my cheddar right
+She said, how much you tryna spend tonight? I got the better price
+I said, I can't even spend the night, I gotta catch a flight
+But I still touch it down like Jerry Rice, Jerry Rice, touchdown
+
+[Pre-Hook]
+Bodies bitch, make that body flip
+You know I don't know karate, bitch
+We droppin' bodies, bitch
+They say shootin' is my hobby, bitch
+And I'm a problem, kid
+Walk up on him with revolvers
+I ain't with that talkin' shit, shhh...
+
+[Outro]
+You already know who you speaking to man
+[?] A.K.A. Trigga the hot nigga, man
+I'll be home soon, man, real, real soon, man
+Yo, Bobby Shmurda talk that hot shit, nigga
+Ah ah ah, what up, brody?
+Ain't shit man you know I'm chillin' how I'm chillin' and all that
+Bobby, bitch, Bobby, bitch
+
+
+--------------------------------------------------
+
+['Bruno Mars', 'Versace On The Floor']
+First appearance on Billboard Hot 100: 2016-12-10
+Link attempted: https://genius.com/bruno-mars-versace-on-the-floor-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+Let's take our time tonight, girl
+Above us all the stars are watchin'
+There's no place I'd rather be in this world
+Your eyes are where I'm lost in
+Underneath the chandelier
+We're dancin' all alone
+There's no reason to hide
+What we're feelin' inside
+Right now
+
+[Pre-Chorus]
+So, baby, let's just turn down the lights
+And close the door
+Oooh I love that dress
+But you won't need it anymore
+No, you won't need it no more
+Let's just kiss 'til we're naked, baby
+
+[Chorus]
+Versace on the floor
+Oooh take it off for me, for me, for me, for me now, girl
+Versace on the floor
+Oooh take it off for me, for me, for me, for me now, girl
+
+[Verse 2]
+Now I unzip the back to watch it fall
+While I kiss your neck and shoulders
+No, don't be afraid to show it all
+I'll be right here ready to hold you
+Girl, you know you're perfect from
+Your head down to your heels
+Don't be confused by my smile
+'Cause I ain't ever been more for real, for real
+
+[Pre-Chorus]
+So just turn down the lights
+And close the door
+Oooh I love that dress
+But you won't need it anymore
+No, you won't need it no more
+Let's just kiss 'til we're naked, baby
+
+[Chorus]
+Versace on the floor
+Oooh take it off for me, for me, for me, for me now, girl
+Versace on the floor
+Oooh take it off for me, for me, for me, for me now, girl
+Dance
+
+[Bridge]
+It's warmin' up
+Can you feel it?
+It's warmin' up
+Can you feel it?
+It's warmin' up
+Can you feel it, baby?
+It's warmin' up
+Oh, seems like you're ready for more, more, more
+Let's just kiss 'til we're naked
+
+[Chorus]
+Versace on the floor
+Hey, baby
+Take it off for me, for me, for me, for me now, girl
+Versace on the floor
+Oooh take it off for me, for me, for me, for me now, girl
+
+[Outro]
+Versace on the floor
+Floor
+Floor
+
+
+--------------------------------------------------
+
+['Cali Swag District', 'Teach Me How To Dougie']
+First appearance on Billboard Hot 100: 2010-06-12
+Link attempted: https://genius.com/cali-swag-district-teach-me-how-to-dougie-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1: Smoove]
+They be like "Smoove (what?) Can you teach me how to Dougie?"
+You know why? Cause all the bitches love me
+All I need is a beat that's super-bumpin'
+And for you, you, and you to back it up and dump it
+Put your arms out front, lean side-to-side
+They gonna be on you when they see you hit that Dougie, right
+Ain't nobody fuckin' with my bro from Morningside
+He go by Bubba and he hit that dance like thunder
+I ain't from Dallas but I D-Town boogie
+I show my moves off now everybody tryna to do me
+I leave the functions and all the ladies tryna to screw me
+Now you just do you and I'mma do me
+Niggas love to hate so they try to screw me
+Bitches be stuck to me, I think they try to glue me
+I make the party shine bright when it started boomin'
+This beat was bubblegum, so I had to chew it
+
+[Hook]
+Teach me how to Dougie, teach me-teach me how to Dougie
+All my bitches love me, all my-all my bitches love me
+All my bitches love me, you ain't fuckin' with my Dougie
+
+[Verse 2: Yung]
+The name is Yung for them dudes who don't know me
+I know I'm from the West but I can teach you how to Dougie
+I step up in the club and all these bitches bug me
+On a nigga dancin' and none of them know me
+I hear this crowd screamin' like, aye get it Brodie
+So I'm move my shoulders and I take it real low
+They like, how he do that
+He can Dougie on the flow
+And when that nigga stop they like, Dougie some mo
+I'm like, a nigga kinda tired then I pass it to the bro
+M-Bone, show these cats how to do that
+Down South dance that we learned a lil' too fast
+And brought it to the hood and, got the whole crew cash
+
+[Hook]
+
+[Verse 3: Jay Are]
+Back of the party, I don't really like to boogie
+I'm just tryin' to get bent and meet a thick redbone
+She do her Dougie and all them bitches hatin'
+But I'm about to escape with a bitch and head home
+She got her friend so it's a two man and
+I run it, run it even if her legs long
+She like, you hubby
+I think she love me
+But I change the subject and I do my Dougie
+Cause I don't give a fuck, blow trees, get money
+Me, Smoove, Heff in the back with Playboy bunnies
+We gonna make em do the Dougie in the middle of the bed
+And when I asked for some head the bitch looked at me funny
+Duh, bitch you can't tell me nothin'
+Starr made the beat, I just took it out the oven
+I just see the Dougie when everybody clubbin'
+And I hate skinny jeans cause the burner keep rubbin'
+
+
+--------------------------------------------------
+
+['Charlie Puth Featuring Meghan Trainor', 'Marvin Gaye']
+First appearance on Billboard Hot 100: 2015-07-04
+Link attempted: https://genius.com/charlie-puth-marvin-gaye-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro: Charlie Puth]
+Let's Marvin Gaye and get it on
+You got the healing that I want
+Just like they say it in the song
+Until the dawn, let's Marvin Gaye and get it on
+
+[Verse 1: Charlie Puth]
+We got this king-size to ourselves
+Don't have to share with no one else
+Don't keep your secrets to yourself
+It's Kama Sutra show and tell, yeah
+
+[Pre-Chorus: Charlie Puth]
+Woah-oh-oh-oh
+There's lovin' in your eyes that pulls me closer
+It's so subtle, I'm in trouble
+But I'd love to be in trouble with you
+
+[Chorus: Charlie Puth & Meghan Trainor]
+Let's Marvin Gaye and get it on
+You got the healing that I want
+Just like they say it in the song
+Until the dawn, let's Marvin Gaye and get it on
+You've got to give it up to me
+I'm screaming, "Mercy, mercy, please!"
+Just like they say it in the song
+Until the dawn, let's Marvin Gaye and get it on
+
+[Verse 2: Meghan Trainor]
+And when you leave me all alone
+I'm like a stray without a home
+I'm like a dog without a bone
+I just want you for my own
+I got to have you, babe
+
+[Pre-Chorus 2: Charlie Puth & Meghan Trainor]
+Woah-oh-oh-oh
+There's lovin' in your eyes that pulls me closer
+It's so subtle, I'm in trouble
+But I'd rather be in trouble with you
+
+[Bridge: Charlie Puth & Meghan Trainor]
+Let's Marvin Gaye and get it on
+Ooh, baby, I got that healing that you want, yes
+Like they say it in the songs
+Until the dawn, let's Marvin Gaye and get it on
+
+[Chorus: Charlie Puth & Meghan Trainor]
+Let's Marvin Gaye and get it on
+You got the healing that I want
+Just like they say it in the song
+Until the dawn, let's Marvin Gaye and get it on, babe
+You've got to give it up to me
+I'm screaming, "Mercy, mercy, please!"
+Just like they say it in the song
+Until the dawn, let's Marvin Gaye and get it on
+Just like they say it in the song
+Until the dawn, let's Marvin Gaye and get it on, ooh
+
+
+--------------------------------------------------
+
+['David Bowie', 'Lazarus']
+First appearance on Billboard Hot 100: 2016-01-30
+Link attempted: https://genius.com/david-bowie-lazarus-lyrics
+Link response: <Response [200]>
+
+
+
+[​​​Intro]
+
+[Verse 1]
+Look up here, I'm in heaven
+I've got scars that can't be seen
+I've got drama, can't be stolen
+Everybody knows me now
+
+[Verse 2]
+Look up here, man, I'm in danger
+I've got nothing left to lose
+I'm so high, it makes my brain whirl
+Dropped my cell phone down below
+Ain't that just like me?
+
+[Bridge]
+By the time I got to New York
+I was living like a king
+There I used up all my money
+I was looking for your ass
+
+[Verse 3]
+This way or no way
+You know I'll be free
+Just like that bluebird
+Now, ain't that just like me?
+
+Oh, I'll be free
+Just like that bluebird
+Oh, I'll be free
+Ain't that just like me?
+
+[Outro]
+
+
+--------------------------------------------------
+
+['Desiigner', 'Tiimmy Turner']
+First appearance on Billboard Hot 100: 2016-08-13
+Link attempted: https://genius.com/desiigner-tiimmy-turner-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Yeah, yeah, yeah, yeah
+Grrrrraaaah
+Yeah, yeah, yeah, yeah
+Git, git, git, git
+Yeah, yeah, yeah, yeah
+Git, git, git, git
+Yeah, yeah, yeah, yeah
+Git, git, git, git
+Yeah, yeah, yeah, yeah
+(Vador)
+Little Timmy Turner
+Git, git, git, git
+
+[Hook]
+Tiimmy, Tiimmy, Tiimmy Turner
+He was wishin' for a burner
+To kill everybody walkin’
+He knows that his soul in the furnace
+Fuck bitch on BET
+Have her walkin', she fuckin' for BET
+Wildin’ for wallet
+Kill everybody walkin'
+He knows that his soul in the furnace
+Tiimmy, Tiimmy, Tiimmy Turner
+He was wishin' for a burner
+To kill everybody walkin'
+He knows that his soul in the furnace
+Fuck bitch on BET
+Have her walkin', she fuckin' for BET
+Wildin' for wallet
+Kill everybody walkin'
+He knows that his soul in the furnace
+Tiimmy, Tiimmy, Tiimmy Turner
+
+[Verse 1]
+Tiimmy, Tiimmy, Tiimmy Turner
+Young boy walkin’, wishin’ for a burner
+Four, five, six, ten ratchets on 'em
+Ten niggas with ’em, ten clappin' on 'em
+Dead niggas with 'em, dead niggas, get ’em
+Four-five rip 'em, four-five zip 'em
+You talk money, young niggas get 'em
+Young niggas get 'em
+Beluga, beluga, beluga
+I fell in love with the Ruger
+I fell in love with my jeweler
+I fell in love with the mulah
+Banana clips is going through ya
+It's all about the rule
+It's all about the move
+It's all about the rules
+
+[Hook]
+Tiimmy, Tiimmy, Tiimmy Turner
+He was wishin' for a burner
+To kill everybody walkin'
+He knows that his soul in the furnace
+Fuck bitch on BET
+Have her walkin', she fuckin' for BET
+Wildin' for wallet
+Kill everybody walkin'
+He knows that his soul in the furnace
+Tiimmy, Tiimmy, Tiimmy Turner
+He was wishin' for a burner
+To kill everybody walkin'
+He knows that his soul in the furnace
+Fuck bitch on BET
+Have her walkin', she fuckin' for BET
+Wildin' for wallet
+Kill everybody walkin'
+He knows that his soul in the furnace
+Tiimmy, Tiimmy, Tiimmy Turner
+
+[Verse 2]
+Tiimmy (Git, git, git)
+Tiimmy Turner (Git, git, git)
+Eh, yeah he wish had a burner
+Young nigga move and he kill with confirma
+You get hit, nigga, left with earner
+Choppa move, nigga, both want it
+You get hit down in both summers
+I got niggas rollin' dat would be dead with it
+Choppa move, nigga, roll him with it
+You choke down, roll, load and get
+Hit a nigga up, reload the semi
+Gotta flow over demon
+Thinking all about Tiimmy
+Just the thought of them with me
+All my killas said they with me
+
+[Hook]
+Tiimmy, Tiimmy, Tiimmy Turner
+He was wishin' for a burner
+To kill everybody walkin'
+He knows that his soul in the furnace
+Fuck bitch on BET
+Have her walkin', she fuckin' for BET
+Wildin' for wallet
+Kill everybody walkin'
+He knows that his soul in the furnace
+Tiimmy, Tiimmy, Tiimmy Turner
+He was wishin' for a burner
+To kill everybody walkin'
+He knows that his soul in the furnace
+Fuck bitch on BET
+Have her walkin', she fuckin' for BET
+Wildin' for wallet
+Kill everybody walkin'
+He knows that his soul in the furnace
+
+[Beat Switch]
+
+[Hook]
+Tiimmy, Tiimmy, Tiimmy Turner
+He was wishin' for a burner
+To kill everybody walkin'
+He knows that his soul in the furnace
+Fuck bitch on BET
+Have her walkin', she fuckin' for BET
+Wildin' for wallet
+Kill everybody walkin'
+He knows that his soul in the furnace
+Tiimmy, Tiimmy, Tiimmy Turner
+He was wishin' for a burner
+To kill everybody walkin'
+He knows that his soul in the furnace
+Fuck bitch on BET
+Have her walkin', she fuckin' for BET
+Wildin' for wallet
+Kill everybody walkin'
+He knows that his soul in the furnace
+Tiimmy, Tiimmy, Tiimmy Turner
+He was wishin' for a burner
+To kill everybody walkin'
+He knows that his soul in the furnace
+Fuck bitch on BET
+Have her walkin', she fuckin' for BET
+Wildin' for wallet
+Kill everybody walkin'
+He knows that his soul in the furnace
+Tiimmy, Tiimmy, Tiimmy Turner
+He was wishin' for a burner
+To kill everybody walkin'
+He knows that his soul in the furnace
+Fuck bitch on BET
+Have her walkin', she fuckin' for BET
+Wildin' for wallet
+Kill everybody walkin'
+He knows that his soul in the furnace
+Tiimmy, Tiimmy, Tiimmy Turner
+
+
+--------------------------------------------------
+
+['Drake', 'Marvins Room']
+First appearance on Billboard Hot 100: 2011-08-06
+Link attempted: https://genius.com/drake-marvins-room-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro: Ericka Lee on the phone]
+Hello? Yeah, I just walked in
+Yeah, I'm good… You still working?
+Tonight… Right now? Did I go out?
+Yeah, I went out, I went…
+I went to a couple of clubs
+I never went to bed, shit…
+Wine or water
+You said something about a cold drink?
+I don't know, I'm delirious…
+
+[Verse 1: Drake]
+Cups of the rosé
+Bitches in my old phone
+I should call one and go home
+I've been in this club too long
+The woman that I would try
+Is happy with a good guy
+But I've been drinkin' so much
+That I'ma call her anyway, and say…
+
+[Chorus: Drake]
+Fuck that nigga that you love so bad
+I know you still think about the times we had
+I say fuck that nigga that you think you found
+And since you picked up, I know he's not around
+
+[Bridge: Drake & Ericka Lee]
+(Are you drunk right now?)
+I'm just sayin' you could do better
+Tell me, have you heard that lately?
+I'm just sayin' you could do better
+And I'll start hatin' only if you make me
+
+[Verse 2: Drake]
+Uh, cups of the XO
+All my people been here
+I see all of her friends here
+Guess she don't have the time to kick it no more
+Flights in the morning
+What you doin' that's so important?
+I've been drinkin' so much
+That I'ma call you anyway, and say…
+
+[Chorus: Drake]
+Fuck that nigga that you love so bad
+I know you still think about the times we had
+I say fuck that nigga that you think you found
+And since you picked up, I know he's not around
+
+[Bridge: Drake & Ericka Lee]
+(Are you drunk right now?)
+I'm just sayin' you could do better
+Tell me, have you heard that lately?
+I'm just sayin' you could do better
+And I'll start hatin' only if you make me
+
+[Verse 3: Drake]
+I think I'm addicted to naked pictures
+And sitting talking 'bout bitches that we almost had
+I don't think I'm conscious of makin' monsters
+Outta the women I sponsor 'til it all goes bad
+But, shit, it's all good
+We threw a party, yeah, we threw a party
+Bitches came over, yeah, we threw a party
+I was just calling, ‘cause they were just leavin'
+Talk to me, please, don't have much to believe in
+I need you right now, are you down to listen to me?
+Too many drinks have been given to me
+I got some women that's livin' off me
+Paid for their flights and hotels, I'm ashamed
+Bet that you know them, I won't say no names
+After a while, girl, they all seem the same
+I've had sex four times this week; I'll explain
+Havin' a hard time adjustin' to fame
+Sprite in that mixture
+I've been talkin' crazy, girl, I'm lucky that you picked up
+Lucky that you stayed on
+I need someone to put this weight on
+"Well, I'm sorry."
+
+[Bridge: Drake & Ericka Lee]
+(Are you drunk right now?)
+I'm just sayin' you could do better
+Tell me, have you heard that lately?
+I'm just sayin' you could do better
+And I'll start hatin' only if you make me
+
+[Interlude: Drake]
+You're not gonna come?
+Guess I'm 'bout to just kick it here then
+
+[Outro: Drake]
+Just throw up while I hold your hair back
+Her white friend said "You niggas crazy"
+I hope no one heard that
+I hope no one heard that
+‘Cause if they did, we gonna be in some trouble
+We gonna be in some trouble, trouble
+
+
+--------------------------------------------------
+
+['Drake Featuring Jay Z', 'Pound Cake / Paris Morton Music 2']
+First appearance on Billboard Hot 100: 2013-10-12
+Link attempted: https://genius.com/drake-pound-cake-/-paris-morton-music-2-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/drake-pound-cake-/-paris-morton-music-2-lyrics
+--------------------------------------------------
+
+['Duck Sauce', 'Barbra Streisand']
+First appearance on Billboard Hot 100: 2011-05-14
+Link attempted: https://genius.com/duck-sauce-barbra-streisand-lyrics
+Link response: <Response [200]>
+
+
+
+[Interlude]
+"New York is the place of opportunities. If there's any place in this world that you want to come to, to be able to make it big, or to go after your dreams, it's New York City."
+
+Wooo, wooo, wooo-ooh
+
+Barbra Streisand
+
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+
+Barbra Streisand!
+
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+[x8]
+
+So rough, baby, baby, baby, baby
+So rough, barbra, barbra, barbra, barbra [x4]
+Barbra Streisand!
+
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+
+Barbra Streisand
+
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh [x2]
+
+Barbra Streisand
+
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh [x2]
+
+Barbra Streisand
+
+Everybody loves Duck Sauce, isn't this amazing? This is amazing!
+
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+Wooo, wooo, wooo-ooh
+
+[Interlude]
+Voice 1: Yeah, yeah, I'll fucking, I'll fucking take it to the farmers market and get you the freshest veggies and shit, like, like, they serve at home food
+
+Voice 2: Yeah, I'll fucking, yeah, I'll fucking, yeah I'll teach you antiques. And buy you the nicest doll houses. Hand-painted!
+
+Voice 3: Oh shit. I, I'll fucking, I'll fucking, take you force back-riding on the white sands of sunny Portugal, motherfucker!
+
+Voice 2: I'll fucking take you to Marta's [?] to go clam and shit. Eat some biscuits on the wing of quarantine upon these beasts
+
+Voice 3: Yeah I'll fucking, I'll set up juice clams for both of us. We'll do the master clams, and I help you with that dental clarity that you always wanted, and help you with your abs!
+
+Voice 1: I'll fucking, I'll fucking, I'll fucking take it to a yoga ass [?] shaking, fucking Toronto
+
+Voice 3: Yo, I'll fucking help you type out your resume with the finest funds! And set up your business plan! And I see that you're proficient at Microsoft Excel and that you have good planning skills
+
+Voice 4: Sounds nice, son!
+
+
+--------------------------------------------------
+
+['Emblem3', "Chloe (You're The One I Want)"]
+First appearance on Billboard Hot 100: 2013-08-10
+Link attempted: https://genius.com/emblem3-chloe-youre-the-one-i-want-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro: Wesley Stromberg]
+Chloe, I know your sister turns everyone on
+But you're the one I want
+But you're the one I want, yeah
+
+[Verse 1: Drew Chadwick]
+Front page magazine
+Everybody says that she's a queen
+But that's you to me
+I just wanna let you know that
+She likes the flashing lights
+I love the way that you like candle light
+Stay close by my side
+I just want a chance to show that
+
+[Pre-Chorus: Keaton Stromberg]
+If only you could believe in yourself in the way I believe in you
+I-I do (but you're the one I want)
+If only you could see all of the beautiful things that I see in you
+It's true-oo-oo-oo
+
+[Chorus: Wesley Stromberg]
+Chloe, I know your sister turns everyone on
+But, oh, baby, I have no doubt you're the one that I want (woo-woo)
+You think she's got it all but that don't make her better (woo-woo)
+You got my heart and that's the only thing that matters
+Chloe, I know your sister turns everyone on
+But you're the one I want
+But you're the one I want, yeah
+
+[Verse 2: Drew Chadwick]
+Fast lanes, limousines
+Baby, there can be no guarantees
+But if you're with me, you know that I can guarantee that
+'Cause I'm attracted to your passion
+Be yourself, forget the fashion
+Just keep that smile you're flashing
+'Cause you and I deserve to be forever ever lasting
+
+[Pre-Chorus: Keaton Stromberg]
+If only you could believe in yourself in the way I believe in you
+I-I do (you're the one I want)
+If only you could see all of the beautiful things that I see in you
+It's true-oo-oo-oo
+
+[Chorus: Wesley Stromberg]
+Chloe, I know your sister turns everyone on
+But oh, baby, I have no doubt you're the one that I want
+You think she's got it all but that don't make her better
+You've got my heart and that's the only thing that matters
+Chloe, I know your sister turns everyone on
+But you're the one I want
+You're the one I want
+
+[Bridge: Wesley and Keaton ]
+All you Chloe's
+All you Chloe's
+They don't show you love enough (hoo-hoo-hoo-hoo)
+All you Chloe's
+You should know that you're my diamond in the rough
+It's true-oo-oo-oo
+
+[Chorus: Wesley]
+Chloe, I know your sister turns everyone on
+But oh, baby, I have no doubt you're the one that I want
+You think she's got it all but that don't make her better
+You've got my heart and that's the only thing that matters
+Chloe, I know your sister turns everyone on
+But you're the one I want
+But you're the one I want
+
+
+--------------------------------------------------
+
+['Eric Church', 'Mr. Misunderstood']
+First appearance on Billboard Hot 100: 2016-01-16
+Link attempted: https://genius.com/eric-church-mr-misunderstood-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+Hey there, weird kid in your high-top shoes
+Sitting in the back of the class; I was just like you
+Always left out, never fit in
+Owning that path you're walking in
+Mr. Misunderstood, Mr. Misunderstood
+
+[Verse 2]
+Now, your buddies get their rocks off on Top 40 radio
+But you love your daddy's vinyl, old-time rock and roll
+Elvis Costello, Ray Wylie Hubbard
+And think Jeff Tweedy is one bad mother
+Mr. Misunderstood, Mr. Misunderstood
+
+[Chorus]
+One day you'll lead the charge, you'll lead the band
+Guitar Hero with lightnin' hands
+And the girls will like your tattoos and the veins in your arms
+They'll be helpless to your musical charms
+And they'll all hold up their hands
+They'll all wanna dance
+Mr. Misunderstood, Mr. Misunderstood
+
+[Verse 3]
+First time I met Alabama Hannah, I was skinny as a rail
+Red hair tied up in a blue bandanna
+She was hotter than the Devil's hell
+She turned me on to Back Porch Pickers
+Jackson Pollock, and gin
+Her daddy didn't trust my intentions
+So he turned to his daddy's old .410
+I'm Mr. Misunderstood, Mr. Misunderstood
+
+[Chorus]
+Had an axe to grind, so off I went
+Mad at the sun for coming up again
+I lost religion, found my soul in the blues
+Rubbed the velvet off my blue suede shoes
+Yeah, everybody held up their hands
+And every soul on Beale Street danced
+With Mr. Misunderstood, Mr. Misunderstood
+
+[Verse 4]
+So I went with it like a colt on my Plymouth
+Through the glass behind my rear-view
+Took a left when the world went right down 16th Avenue
+Played with fire and I played on ledges
+Every circus, stage, and county fair
+They tried to file my points, sand my edges
+And I just grew out my hair
+I'm Mr. Misunderstood, I'm Mr. Misunderstood
+
+[Chorus]
+They're standing in line, chasing the buzz
+Til the next big things and already was
+And hell if they know what they're trying to find
+If it ain't that same old, been-done kind
+Yeah, gives the head-scratchers fits
+Wondering how in the hell they missed
+I'm Mr. Misunderstood, Mr. Misunderstood
+
+[Verse 5]
+Hey there, weird kid in your high-top shoes
+Sitting in the back of the class; I was just like you
+Mr. Misunderstood (I understand)
+Mr. Misunderstood (I understand)
+Mr. Misunderstood (I understand)
+Mr. Misunderstood (I understand)
+Mr. Misunderstood (I understand)
+I'm Mr. Misunderstood (let's go out of here)
+
+[Outro]
+Na na na na-na, na na na na-na
+Na na na na-na na (I understand)
+Na na na na-na, na na na na-na
+Na na na na-na na (I understand)
+Na na na na-na, na na na na-na
+Na na na na-na na (I understand)
+Na na na na-na, na na na na-na
+Na na na na-na na (I understand...)
+Na na na na-na, na na na na-na
+Na na na na-na na
+Na na na na-na, na na na na-na
+Na na na na-na na
+
+
+--------------------------------------------------
+
+['Eric Church', 'Springsteen']
+First appearance on Billboard Hot 100: 2012-03-17
+Link attempted: https://genius.com/eric-church-springsteen-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse]
+To this day when I hear that song
+I see you standin' there on that lawn
+Discount shades, store bought tan
+Flip flops and cut-off jeans
+
+Somewhere between that setting sun
+"I'm on Fire" and "Born to Run"
+You looked at me and I was done
+And we're, we're just getting started
+
+I was singin' to you, you were singin' to me
+I was so alive, never been more free
+Fired up my daddy's lighter and we sang
+Ooohh
+
+Stayed there 'til they forced us out
+And took the long way to your house
+I can still hear the sound of you sayin' don't go
+
+When I think about you, I think about 17
+I think about my old jeep
+I think about the stars in the sky
+Funny how a melody sounds like a memory
+Like the soundtrack to a July Saturday night
+Springsteen
+
+I bumped into you by happenstance
+You probably wouldn't even know who I am
+But if I whispered your name
+I bet there'd still be a spark
+
+Back when I was gasoline
+And this old tattoo had brand new ink
+And we didn't care what your mom would think
+About your name on my arm
+
+Baby, is it spring or is it summer?
+The guitar sound or the beat of that drummer
+You hear sometimes late at night
+On your radio
+
+Even though you're a million miles away
+When you hear Born in the USA
+You relive those glory days
+So long ago
+
+When you think about me, do you think about 17
+Do you think about my old jeep
+Think about the stars in the sky
+Funny how a melody sounds like a memory
+Like a soundtrack to a July Saturday night
+Springsteen
+Springsteen
+
+Woah-oh-oh-oh
+
+Funny how a melody sounds like a memory
+Like a soundtrack to a July Saturday night
+Springsteen
+Springsteen
+Woah Springsteen
+
+Woah-oh-oh-oh
+
+
+--------------------------------------------------
+
+['Fall Out Boy', 'Uma Thurman']
+First appearance on Billboard Hot 100: 2015-01-31
+Link attempted: https://genius.com/fall-out-boy-uma-thurman-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+I can move mountains
+I can work a miracle, work a miracle
+Oh, oh, keep you like an oath
+May nothing but death do us part
+
+[Chorus]
+She wants to dance like Uma Thurman
+Bury me 'til I confess
+She wants to dance like Uma Thurman
+And I can't get you out of my head
+
+[Verse 1]
+The stench, the stench of summer sex
+And CK Eternity, oh hell yes
+Divide me down to the smallest I can be
+Put your, put your v-v-v-venom in me
+
+[Pre-Chorus]
+I can move mountains
+I can work a miracle, work a miracle
+Oh, oh, keep you like an oath
+May nothing but death do us apart
+
+[Chorus]
+She wants to dance like Uma Thurman
+Bury me 'til I confess
+She wants to dance like Uma Thurman
+And I can't get you out of my head
+
+[Verse 2]
+The blood, the blood, the blood of the lamb
+Is worth two lions but here I am
+And I slept in last night's clothes and tomorrow's dreams
+But they're not quite what they seem
+
+[Pre-Chorus]
+I can move mountains
+I can work a miracle, work a miracle
+Oh, oh, keep you like an oath
+May nothing but death do us apart
+
+[Bridge]
+You'll find your way
+And may death find you alive
+Take me down the line
+In Gem City we turn the tide
+You'll find your way
+And may death find you alive
+Take me down the line
+In Gem City we turn the tide
+
+[Chorus]
+She wants to dance like Uma Thurman
+Bury me 'til I confess
+She wants to dance like Uma Thurman
+And I can't get you out of my head
+
+[Outro]
+I can move mountains
+I can work a miracle, work a miracle
+Oh, oh, keep you like an oath
+May nothing but death do us apart
+I can move mountains
+I can work a miracle, work a miracle
+Oh, oh, keep you like an oath
+May nothing but death do us apart
+
+
+--------------------------------------------------
+
+['Fetty Wap', 'Jimmy Choo']
+First appearance on Billboard Hot 100: 2016-02-27
+Link attempted: https://genius.com/fetty-wap-jimmy-choo-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+Ayy, my Beamer sit on Jimmy Choos, damn
+My bitch, I buy her Jimmy Choos, damn
+My neck, a buncha frozen jewels, damn
+I can show you what them Benjis do, damn
+Benjamins bring them finer things, damn
+That what you want, then go on, get it baby, damn
+I hit a lick, ain't have to split it, baby, damn
+A hunnid thou in all fifties, baby
+Robin jeans and some Jimmy Choos, damn
+All wings, I don't do the Trues, damn
+Robin jeans and some Jimmy Choos, damn
+All wings, I don't do the Trues
+
+[Hook]
+What you want? 'Cause you got it, baby
+I pull up, see you watchin', baby
+See them bands in my Robins, baby
+Jimmy Choos when you walkin', baby
+I swear that she works it, I swear she so perfect
+She makes me so nervous, the way that she works it
+Jimmy Choos on her feet when she be walkin', ayy
+Jimmy Choos on her feet when she be walkin', yeah baby
+
+[Verse 2]
+My bitch in Jimmy Choos but I'm in Robin jeans
+She say she love my crystals on my Robin wings
+Everything designer, it's designer things
+All this fuckin' money bring the finer things, ayy
+Slim thick wit' yo cute ass, ayy
+I might buy you a new bag, damn
+So fine I bought a new Jag, damn
+Top down, ain't no do rag
+They like "ZooWap, how you do that?"
+All that money, I'ma move that
+Jimmy Choos and my Robin jeans
+Ain't no Trues, just some Robin jeans
+
+[Hook]
+What you want? 'Cause you got it, baby
+I pull up, see you watchin', baby
+See them bands in my Robins, baby
+Jimmy Choos when you walkin', baby
+I swear that she works it, I swear she so perfect
+She makes me so nervous, the way that she works it
+Jimmy Choos on her feet when she be walkin', ayy
+Jimmy Choos on her feet when she be walkin', yeah baby
+
+
+--------------------------------------------------
+
+['Fifth Harmony', "Miss Movin' On"]
+First appearance on Billboard Hot 100: 2013-08-03
+Link attempted: https://genius.com/fifth-harmony-miss-movin-on-lyrics
+Link response: <Response [200]>
+
+
+
+[Music Video]
+
+[Verse 1: Camila & Lauren]
+I'm breaking down, gonna start from scratch
+Shake it off like an etch-a-sketch
+My lips are saying good-bye
+My eyes are finally dry
+I'm not the way that I used to be
+I took the record off repeat
+It killed me, but I survived
+And now I'm coming alive
+
+[Pre-Chorus: Camila]
+I'll never be that girl again, no-oh-oh
+I'll never be that girl again, no-oh-oh-oh
+
+[Chorus: Lauren]
+My innocence is wearing thin
+But my heart is growing strong
+So call me, call me, call me
+Miss movin' on, oh-oh-oh
+Miss movin' on, oh-oh-oh, yeah
+
+[Verse 2: Lauren & Dinah & (Normani)]
+I broke the glass that surrounded me (surrounded me)
+I ain't the way you remember me (remember me)
+I was such a good girl
+So fragile but no more
+I jumped the fence to the other side, (the other side)
+My whole world was electrified (electrified)
+Now I'm now longer afraid
+It's Independence Day
+(It's Independence Day)
+
+[Pre-Chorus: Camila]
+I'll never be that girl again, no-oh-oh
+I'll never be that girl again, no-oh-oh-oh
+
+[Chorus: Lauren]
+My innocence is wearing thin
+But my heart is growing strong
+So call me, call me, call me
+Miss movin' on
+
+[Bridge: Dinah & (Normani)]
+Everything is changing
+And I never want to go back
+To the way it was (the way it was)
+I'm finding out who I am and who I am
+From here on out is gonna be enough (gonna be enough)
+Is gonna be enough...
+
+[Pre-Chorus: Normani & Ally]
+I'll never be that girl again, no-oh-oh
+I'll never be that girl again, no-oh-oh-oh
+
+[Chorus: Lauren & (Dinah) & (Ally) & (Camila) & Normani]
+My innocence is wearing thin
+But my heart is growing strong
+So call me, call me, call me
+Miss movin' on, oh-oh-oh (ohhhhh)
+Miss movin' on, oh-oh-oh (on and on and on and on and on)
+Miss movin' on, oh-oh-oh (on and on and on and on, on and on and on and on)
+Miss movin' on, oh-oh-oh (hey... yeah yeah)
+
+[Outro: Lauren]
+Yeah, I'm movin' on
+
+
+--------------------------------------------------
+
+['Frank Ocean', 'Ivy']
+First appearance on Billboard Hot 100: 2016-09-10
+Link attempted: https://genius.com/frank-ocean-ivy-lyrics
+Link response: <Response [200]>
+
+
+
+[Chorus]
+I thought that I was dreaming
+When you said you loved me
+It started from nothing
+I had no chance to prepare
+I couldn't see you coming
+It started from nothing
+I could hate you now
+It's quite alright to hate me now
+When we both know that deep down
+The feeling still deep down is good
+
+[Verse 1]
+If I could see through walls
+I could see you're faking
+If you could see my thoughts
+You would see our faces
+Safe in my rental like an armored truck back then
+We didn't give a fuck back then
+I ain't a kid no more
+We'll never be those kids again
+We'd drive to Syd's, had the X6 back then
+Back then
+No matter what I did
+My waves wouldn't dip back then
+Everything sucked back then
+We were friends
+
+[Chorus]
+I thought that I was dreaming
+When you said you loved me
+It started from nothing
+I had no chance to prepare
+I couldn't see you coming
+It started from nothing
+I could hate you now
+It's quite alright to hate me now
+But we both know that deep down
+The feeling still deep down is good
+
+[Verse 2]
+In the halls of your hotel
+Arm around my shoulder so I could tell
+How much I meant to you... meant it sincere back then
+We had time to kill back then
+You ain't a kid no more
+We'll never be those kids again
+It's not the same, ivory's illegal
+Don't you remember?
+I broke your heart last week
+You'll probably feel better by the weekend
+Still remember, had you going crazy
+Screaming my name
+The feeling deep down is good
+
+[Chorus]
+I thought that I was dreaming
+When you said you loved me
+It started from nothing
+I had no chance to prepare
+Couldn't see you coming
+And we started from nothing
+I could hate you now
+It's alright to hate me now
+We both know that deep down
+The feeling still deep down is good
+
+[Outro]
+All the things I didn't mean to say
+I didn't mean to do
+There were things you didn't need to say
+Did you mean to? Me too
+I've been dreaming of you
+Dreaming of you
+I've been dreaming of you
+Dreaming of you
+I've been dreaming
+Dreaming
+
+
+--------------------------------------------------
+
+['Glee Cast', 'Hungry Like The Wolf / Rio']
+First appearance on Billboard Hot 100: 2012-04-28
+Link attempted: https://genius.com/glee-cast-hungry-like-the-wolf-/-rio-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/glee-cast-hungry-like-the-wolf-/-rio-lyrics
+--------------------------------------------------
+
+['Glee Cast', "Moves Like Jagger / Jumpin' Jack Flash"]
+First appearance on Billboard Hot 100: 2012-02-04
+Link attempted: https://genius.com/glee-cast-moves-like-jagger-/-jumpin-jack-flash-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/glee-cast-moves-like-jagger-/-jumpin-jack-flash-lyrics
+--------------------------------------------------
+
+['Glee Cast', "Don't Cry For Me Argentina (Lea Michele Version)"]
+First appearance on Billboard Hot 100: 2010-12-18
+Link attempted: https://genius.com/glee-cast-dont-cry-for-me-argentina-lea-michele-version-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/glee-cast-dont-cry-for-me-argentina-lea-michele-version-lyrics
+--------------------------------------------------
+
+['Glee Cast', 'Valerie']
+First appearance on Billboard Hot 100: 2010-12-18
+Link attempted: https://genius.com/glee-cast-valerie-lyrics
+Link response: <Response [200]>
+
+
+
+Santana (New Directions Girls):
+Well, sometimes I go out by myself
+And I look across the water (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh)
+And I think of all the things, what you're doin'
+And in my head I paint a picture (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh)
+
+'Cause since I've come on home (Aaahh, aahh)
+Well, my body's been a mess (Aaahh, aahh)
+And I've missed your ginger hair (Aaahh, aahh)
+And the way you like to dress
+
+Santana with New Directions:
+Won't you come on over?
+Stop making a fool out of me
+Why don't you come on over Valerie?
+
+Santana (New Directions):
+(Pa, pa, pa, pa, pa, pa, pa, pa) Valerie-e-e (Why don't you come on over?)
+(Pa, pa, pa, pa, pa, pa, pa, pa) Va-a-lerie yeah (Valerie, Valerie)
+(Pa, pa, pa, pa, pa, pa, pa, pa) Valerie-e-e (Why don't you come on over?)
+
+Santana (New Directions Girls):
+Did you have to go to jail
+Put your house on up for sale
+Did you get a good lawyer-e-er? (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh) (New Directions: Lawyer-e-er)
+
+I hope you didn't catch a tan (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh)
+I hope you find the right man who'll fix it for you (New Directions: Who'll fix it for you)
+Now are you shopping anywhere (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh)
+Changed the color of your hair (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh)
+And are you busy? (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh) (New Directions: Are you busy?)
+And did you have to pay that fine (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh)
+That you were dodging all the time (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh)
+Are you still dizzy-y-y? (New Directions: Are you still dizzy, dizzy, dizzy?)
+
+Santana:
+Since I've come on home (Aaahh, aahh)
+Well my body's been a mess (Aaahh, aahh)
+And I've missed your ginger hair (Aaahh, aahh)
+And the way you like to dress
+
+Santana with New Directions:
+Won't you come on over
+Stop making a fool out of me
+Why don't you come on over Valerie?
+
+Santana (New Directions):
+(Pa, pa, pa, pa, pa, pa, pa, pa) Valerie-e-e (Why don't you come on over?)
+(Pa, pa, pa, pa, pa, pa, pa, pa) Va-a-lerie yeah (Valerie Valerie)
+(Pa, pa, pa, pa, pa, pa, pa, pa) Valerie-e-e (Why don't you come on over?)
+
+Santana (New Directions Girls):
+Well, sometimes I go out by myself (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh)
+And I look across the water (Uh-uh)
+And I think of all the things, what you're doing (Uh, uh, uh, uh-uh, uh, uh, uh, uh-uh)
+And in my head I paint a picture...... (Uh-uh)
+
+'Cause since I've come on home (Aaahh, aahh)
+Well, my body's been a mess (Aaahh, aahh)
+And I've missed your ginger hair (Aaahh, aahh)
+And the way you like to dress
+
+Santana with New Directions:
+Won't you come on over
+Stop makin' a fool out of me
+Why don't you come on over Valerie?
+
+Santana (New Directions):
+(Pa, pa, pa, pa, pa, pa, pa, pa) Valerie-e-e (Why don't you come on over?)
+(Pa, pa, pa, pa, pa, pa, pa, pa) Va-a-lerie yeah
+(Pa, pa, pa, pa, pa, pa, pa, pa) Valerie-e-e (Why don't you come on over?) Valerie (Valerie Valerie)
+(Pa, pa, pa, pa, pa, pa, pa, pa) Valerie (Why don't you come on over Valerie?)
+(Pa, pa, pa, pa, pa, pa, pa, pa) Valerie Valerie (Why don't you come on over?)
+(Pa, pa, pa, pa, pa, pa, pa, pa)
+
+Santana with New Directions:
+Why don't you come on over Valerie?
+
+
+--------------------------------------------------
+
+['Glee Cast', 'Beth']
+First appearance on Billboard Hot 100: 2010-06-12
+Link attempted: https://genius.com/glee-cast-beth-lyrics
+Link response: <Response [200]>
+
+
+
+Puck:
+Beth, I hear you callin'
+But I can't come home right now
+Me and the boys are playin'
+And we just can't find the sound
+
+New Directions boys:
+Just a few more hours
+And I'll be right home to you
+I think I hear them callin'
+Oh Beth, what can I do?
+Beth, what can I do?
+
+Finn:
+You say you feel so empty
+That our house just ain't a home
+And I'm always somewhere else
+And you're always there alone
+
+New Directions boys:
+Just a few more hours
+And I'll be right home to you
+I think I hear them callin'
+Oh Beth, what can I do?
+Beth, what can I do?
+
+Puck:
+Beth, I know you're lonely
+And I hope you'll be all right
+'Cause me and the boys will be playin' all night
+
+
+--------------------------------------------------
+
+['Glee Cast', "Jessie's Girl"]
+First appearance on Billboard Hot 100: 2010-05-29
+Link attempted: https://genius.com/glee-cast-jessies-girl-lyrics
+Link response: <Response [200]>
+
+
+
+Finn:
+Jessie is a friend
+Yeah, I know he's been a good friend of mine
+But lately something's changed that ain't hard to define
+Jessie's got himself a girl and I want to make her mine
+
+And she's watching him with those eyes
+And she's lovin' him with that body, I just know it
+And he's holding her in his arms late, late at night
+You know, I wish that I had Jessie's girl
+I wish that I had Jessie's girl
+Where can I find a woman like that?
+
+I'll play along with the charade
+There doesn't seem to be a reason to change
+You know, I feel so dirty when they start talking cute
+I wanna tell her that I love her but the point is probably moot
+
+'Cause she's watching him with those eyes
+And she's lovin' him with that body, I just know it
+And he's holding her in his arms late, late at night
+You know, I wish that I had Jessie's girl
+I wish that I had Jessie's girl
+Where can I find a woman like that?
+Like Jessie's girl
+I wish that I had Jessie's girl
+Where can I find a woman...
+Where can I find a woman like that?
+
+And I'm lookin' in the mirror all the time
+Wonderin' what she don't see in me
+I've been funny, I've been cool with the lines
+Ain't that the way love's supposed to be?
+
+Tell me, where can I find a woman like that?
+
+You know, I wish that I had Jessie's girl
+I wish that I had Jessie's girl
+I want Jessie's girl
+Where can I find a woman like that?
+Like Jessie's girl
+I wish that I had Jessie's girl
+I want, I want Jessie's girl
+
+
+--------------------------------------------------
+
+['Glee Cast', "Rose's Turn"]
+First appearance on Billboard Hot 100: 2010-05-29
+Link attempted: https://genius.com/glee-cast-roses-turn-lyrics
+Link response: <Response [200]>
+
+
+
+Kurt:
+All that work and what did it get me?
+Why did I do it?
+Scrapbooks full of me in the background
+Give 'em love and what does it get you?
+What does it get you?
+One quick look as each of 'em leaves you
+All your life and what does it get you?
+Thanks a lot and out with the garbage
+They take bows and you're battin' zero
+
+I had a dream
+I dreamed it for you, Dad
+It wasn't for me, Dad
+And if it wasn't for me, then where would you be
+Miss Rachel Berry?
+
+Well, someone tell me, when is it my turn?
+Don't I get a dream for myself?
+Starting now, it's gonna be my turn
+Gangway, world, get off of my runway!
+Starting now, I bat a thousand
+This time, boys, I'm taking the bows and
+
+Everything's coming up Kurt!
+Everything's coming up Hummel!
+Everything's coming up Kurt!
+This time for me
+Hahahahahahaha!
+
+For me!
+For me!
+For me!
+For me!
+For me!
+For me..!
+Yeah!
+
+
+--------------------------------------------------
+
+['Glee Cast Featuring Jonathan Groff', 'Run Joey Run']
+First appearance on Billboard Hot 100: 2010-05-22
+Link attempted: https://genius.com/glee-cast-run-joey-run-lyrics
+Link response: <Response [200]>
+
+
+
+Rachel:
+Daddy please don't, it wasn't his fault
+He means so much to me
+Daddy please don't, we're gonna get married
+Just you wait and see
+
+Puck:
+Every night, the same old dream, I hate to close my eyes
+I can't erase the memory, the sound of Julie's cry
+She called me up late that night, and she said, "Joe, don't come over
+But Dad and I just had a fight and he stormed out the door!
+I've never seen him act this way, my God, he's goin' crazy
+He said he's gonna make you pay for what we done--
+He's got a GUN! So run, Joey, run, Joey, run!"
+
+Rachel:
+Daddy please don't, it wasn't his fault
+He means so much to me
+Daddy please don't, we're gonna get married
+Just you wait and see
+
+Jesse:
+Got in my car and drove like mad 'til I reached Julie's place
+She ran to me with tear-filled eyes and bruises on her face!
+All at once I saw him there, sneaking up behind me (Rachel: Watch out!)
+Then Julie yelled, "He's got a gun!"
+Finn:
+And she stepped in front of me
+
+Then suddenly, a shot rang out and I saw Julie falling!
+I ran to her, I held her close
+When I looked down, my hands were red
+And here's the last words Julie said...
+
+Rachel:
+Daddy please don't, it wasn't his fault
+He means so much to me
+Daddy please don't, we're gonna get mar...ried...
+
+Puck, Jesse & Finn:
+Run, Joey, run, Joey, run, Joey
+Run, Joey, run, Joey, run, Joey, ruuuuuunn!!!
+
+
+--------------------------------------------------
+
+['Green Shoe Studio Featuring Jacob Colgan & Fred Stobaugh', 'Oh Sweet Lorraine']
+First appearance on Billboard Hot 100: 2013-09-14
+Link attempted: https://genius.com/green-shoe-studio-oh-sweet-lorraine-lyrics
+Link response: <Response [200]>
+
+
+
+Oh Sweet Lorraine
+I wish we could do
+The good times
+All over again
+
+Oh sweet Lorraine
+Life only goes around
+Once
+But never again
+
+Oh sweet Lorraine
+I wish we could do
+All the good times all over
+Again
+
+The good times
+The good times
+The good times
+All over again
+
+The good times
+The good times
+The good times
+All over again
+
+But the memories always
+Linger on
+Oh sweet Lorraine
+No I don’t wanna move on
+Oh the memories
+Always linger on
+Oh sweet Lorraine
+That’s why I wrote this song
+
+Oh Sweet Lorraine
+I wish we could do
+The good times
+All over again
+
+Oh sweet Lorraine
+Life only goes around
+Once
+But never again
+
+Oh sweet Lorraine
+I wish we could do
+All the good times all over
+Again
+
+The good times
+The good times
+The good times
+All over again
+
+The good times
+The good times
+All the good times
+All over again
+
+
+--------------------------------------------------
+
+['Jason Derulo', 'Cheyenne']
+First appearance on Billboard Hot 100: 2015-08-15
+Link attempted: https://genius.com/jason-derulo-cheyenne-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Cheyenne, Cheyenne
+
+[Verse 1]
+I'm a little unsure how it got so complicated
+If I let go I know, I'll regret it
+Every heart that I held before, I was sure to break it
+I don't know what you did, but
+
+[Pre-Chorus]
+I just can't stop thinking 'bout you every day
+No, I can't stop now
+
+[Chorus]
+Look what we started, baby
+You're not what I expected
+'Cause all I ever wanted was some fun
+Look what we started, baby
+I used to look for exits
+'Cause all I ever wanted was some fun
+
+[Post-Chorus]
+I never meant to fall in love
+I never meant to fall in lo-ove
+I never meant to fall in love
+I never meant to fall in lo-ove
+
+[Verse 2]
+Cheyenne, got the table set for two, guess you couldn't make it
+Thought I kissed your lips again, I was dreaming (dreaming)
+I still believe that night we shared was something sacred (yeah)
+I'm tryna clear my head, but
+
+[Pre-Chorus]
+I just can't (can't) stop (stop) thinking 'bout you every day
+No, I can't (can't) stop now
+
+[Chorus]
+Look what we started, baby
+You're not what I expected
+'Cause all I ever wanted was some fun (Cheyenne)
+Look what we started, baby (started, baby)
+I used to look for exits
+'Cause all I ever wanted was some fun
+
+[Post-Chorus]
+I never meant to fall in love
+I never meant to fall in lo-ove
+I never meant to fall in love
+I never meant to fall in lo-ove
+
+[Bridge]
+Cheyenne, Cheyenne
+Cheyenne, Cheyenne
+
+[Pre-Chorus]
+No, I can't stop thinking 'bout you every day
+No, I can't stop now
+
+[Chorus]
+Look what we started, baby (oh, oh, baby)
+You're not what I expected (woo)
+'Cause all I ever wanted was some fun (huh, woo)
+Look what we started, baby (started, baby)
+I used to look for exits (you, yeah)
+'Cause all I ever wanted was some fun (oh, oh)
+
+[Post-Chorus]
+I never meant to fall in love (Cheyenne)
+I never meant to fall in lo-ove
+I never meant to fall in love (Cheyenne)
+I never meant to fall in lo-ove
+I never meant to fall in love (Cheyenne)
+I never meant to fall in lo-ove
+I never meant to fall in love (Cheyenne)
+I never meant to fall in lo-ove
+
+[Outro]
+Cheyenne
+
+
+--------------------------------------------------
+
+['Jay Z Kanye West Featuring Otis Redding', 'Otis']
+First appearance on Billboard Hot 100: 2011-08-06
+Link attempted: https://genius.com/jay-z-kanye-west-otis-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/jay-z-kanye-west-otis-lyrics
+--------------------------------------------------
+
+['JAY-Z', 'Picasso Baby']
+First appearance on Billboard Hot 100: 2013-07-27
+Link attempted: https://genius.com/jay-z-picasso-baby-lyrics
+Link response: <Response [200]>
+
+
+
+[Produced by Timbaland]
+
+[Verse 1]
+I just want a Picasso in my casa, no, my castle
+I'm a hassa, no, I'm an asshole
+I'm never satisfied, can't knock my hustle
+I wanna Rothko, no, I want a brothel
+No, I want a wife that fuck me like a prostitute
+Let's make love on a million
+In a dirty hotel with the fan on the ceiling
+All for the love of drug dealing
+Marble floors, gold ceilings
+Oh, what a feeling, fuck it, I want a billion
+Jeff Koons balloons, I just wanna blow up
+Condos in my condos, I wanna row of
+Christie's with my missy, live at the MoMA
+Bacons and turkey bacons, smell the aroma
+
+[Hook]
+Oh, what a feeling
+Picasso baby
+Picasso
+Picasso baby
+Oh, what a feeling
+Picasso baby
+Picasso
+Picasso baby
+
+[Verse 2]
+It ain't hard to tell, I'm the new Jean Michel
+Surrounded by Warhols, my whole team ball
+Twin Bugattis outside the Art Basel
+I just wanna live life colossal
+Leonardo Da Vinci flows
+Riccardo Tisci Givenchy clothes
+See me throning at the Met
+Vogueing on these niggas, champagne on my breath, yes
+House like the Louvre or the Tate Modern
+Cause I be going ape at the auction
+Oh what a feeling, aw, fuck it, I want a trillion
+Sleeping every night next to Mona Lisa
+The modern day version with better features
+Yellow Basquiat in my kitchen corner
+Go 'head, lean on that shit Blue, you own it
+
+[Hook]
+Oh, what a feeling
+Picasso baby
+Picasso
+Picasso baby
+Oh, what a feeling
+Picasso baby
+Picasso
+Picasso baby
+
+
+[Break]
+
+[Woman]
+"Et là je t'ai tout donné, montré, rien à cacher, tu es là Ivy, comme le nombre d'or. Jay, comment tu dis nombre d'or?"
+
+[Jay Z]
+"The golden number."
+
+[Woman]
+"Touché."
+
+[Verse 3]
+I never stuck my cock in the fox's box but
+Damned if I ain't open Pandora's box
+They try to slander your man on CNN and Fox
+My Mirandas don't stand a chance with cops
+Even my old fans like, "Old man, just stop"
+I could if I would, but I can't, I'm hot
+And you blow, I'm still the man to watch
+Hublot on my left hand or not
+Soon I step out the booth, the cameras pops
+Niggas is cool with it 'til the canons pop
+Now my hand on the Bible on the stand
+Got your man in a jam again, got my hands in cuff
+I'm like goddamn enough
+I put down the cans and they ran amok
+My hairpin pierce skin, ruptures spleens
+Cracks ribs, go through cribs, and other things
+No sympathy for the king, huh?
+Niggas even talk about your baby crazy
+Eventually the pendulum swings
+Don't forget America this how you made me
+Come through with the 'Ye mask on
+Spray everything like SAMO, I won't scratch the Lambo
+What's it gon take for me to go
+For you to see, I'm the modern day Pablo, Picasso baby
+
+
+--------------------------------------------------
+
+['JAY-Z', 'Tom Ford']
+First appearance on Billboard Hot 100: 2013-07-27
+Link attempted: https://genius.com/jay-z-tom-ford-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Clap for a nigga with his rapping ass
+Blow a stack for your niggas with your trapping ass
+
+[Hook]
+Tom Ford, Tom Ford, Tom Ford
+
+[Bridge]
+Coming up, coming down
+Riding clean fix your hair in my Crown
+Bad bitch, H town
+Keep it trill, y'all know y'all can't fuck around
+
+[Verse 1]
+Paris where we been, pard' my Parisian
+It's Hov time in no time, it's fuck-all-y'all season
+Piss Bordeaux and Burgundies, flush out a Riesling
+When Hov's out, them hoes out, y'all put y'all weaves in, and
+Clap for a nigga with his rapping ass
+Blow a stack for your niggas with your trapping ass
+Spent all my euros on tuxes and weird clothes
+I party with weirdos, yeah Hov, yeah Hov
+
+[Hook]
+I don't pop molly, I rock Tom Ford
+International bring back the Concorde
+Numbers don't lie, check the scoreboard
+
+Tom Ford, Tom Ford, Tom Ford
+
+[Verse 2]
+Hands down got the best flow, sound I'm so special
+Sound boy burial, this my Wayne Perry flow
+Y'all know nothing 'bout Wayne Perry though
+District of Columbia, guns on y'all Tumblrs
+Fuck hashtags and retweets, nigga
+140 characters in these streets, nigga
+Pardon my laughing, y'all only flagging on beats, nigga
+Pardon my laughing, I happen to think you sweet
+
+[Hook]
+I don't pop molly, I rock Tom Ford
+International bring back the Concorde
+Numbers don't lie, check the scoreboard
+
+Tom Ford, Tom Ford, Tom Ford
+
+[Interlude]
+Oh, man, so throwed
+
+[Bridge]
+
+[Outro]
+Hold up (I don't pop molly, I rock Tom Ford)
+
+
+--------------------------------------------------
+
+['Jordan Smith', 'Mary Did You Know']
+First appearance on Billboard Hot 100: 2016-01-02
+Link attempted: https://genius.com/jordan-smith-mary-did-you-know-lyrics
+Link response: <Response [200]>
+
+
+
+Mary, did you know
+That your baby boy will one day walk on water?
+Mary, did you know
+That your baby boy would save our sons and daughters?
+Did you know
+That your baby boy has come to make you new?
+And this child that you delivered
+Will soon deliver you?
+
+Mary, did you know
+That your baby boy will give sight to a blind man?
+Mary, did you know
+That your baby boy would calm a storm with His hand?
+Did you know
+That your baby boy has walked where angels trod
+When you kiss your little baby
+You've kissed the face of God?
+
+Oh, Mary, did you know
+Mary, did you know
+Ooh
+
+Oh, the blind will see
+The deaf will hear
+And the dead will live again
+The lame will leap
+The dumb will speak
+The praises of the lamb
+
+Ooh, Mary, did you know
+That your baby boy is Lord of all creation?
+Mary did you know
+That your baby boy would one day rule the nations?
+Did you know
+That your baby boy is Heaven's perfect lamb
+And the sleeping child you're holding
+He is the great
+The great I Am?
+
+Mary, did you know?
+Mary, did you know?
+
+
+--------------------------------------------------
+
+['Juliet Simms', 'Roxanne']
+First appearance on Billboard Hot 100: 2012-04-28
+Link attempted: https://genius.com/juliet-simms-roxanne-lyrics
+Link response: <Response [200]>
+
+
+
+Roxanne, you don't have to put on the red light, those days are over
+You don't have to sell your body to the night
+Roxanne, you don't have to wear that dress tonight
+Walk the streets for money, you don't care if it's wrong or if it's right
+
+Roxanne, you don't have to put on the red light
+Put on the red light, put on the red light
+Put on the red light well, put on the red light
+Well, put on the red light, oh
+
+I loved you since I knew you, I wouldn't talk down to you
+I have to tell you just how I feel, I won't share you with another boy
+Roxanne, you don't have to put on the red light
+Roxanne, you don't have to put on the red light
+
+You don't have to put on the red light, Roxanne, put on the red light
+You don't have to put on the red light
+Put on the red light, put on the red light
+Put on the red light well, put on the red light
+
+
+--------------------------------------------------
+
+['Keith Urban', 'John Cougar, John Deere, John 3:16']
+First appearance on Billboard Hot 100: 2015-06-27
+Link attempted: https://genius.com/keith-urban-john-cougar-john-deere-john-316-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/keith-urban-john-cougar-john-deere-john-316-lyrics
+--------------------------------------------------
+
+['Kelly Clarkson', 'Mr. Know It All']
+First appearance on Billboard Hot 100: 2011-09-24
+Link attempted: https://genius.com/kelly-clarkson-mr-know-it-all-lyrics
+Link response: <Response [200]>
+
+
+
+Mr. Know-It-All
+Well ya, you think you know it all
+But ya don't know a thing at all
+Ain't it, ain't it something y'all
+When somebody tells you something 'bout you
+Think that they know you more than you do
+So you take it down another pill to swallow
+
+Mr. Bring-Me-Down
+Well ya, ya like to bring me down, don't you?
+But I ain't laying down, baby, I ain't goin' down
+Can't nobody tell me how it's gonna be
+Nobody gonna make a fool outta me
+Baby, you should know that I lead not follow
+
+Oh you think that you know me, know me
+That's why I'm leaving you lonely, lonely
+'Cause baby you don't know a thing about me
+You don't know a thing about me
+
+You ain't got the right to tell me
+When and where to go, no right to tell me
+Acting like you own me lately
+Yeah baby you don't know a thing about me
+You don't know a thing about me
+
+Mr. Play-Your-Games
+Only got yourself to blame
+When you want me back again
+But I ain't falling back again
+'Cause I'm living my truth without your lies
+Let's be clear baby this is goodbye
+I ain't coming back tomorrow
+
+Oh you think that you know me, know me
+That's why I'm leaving you lonely, lonely
+'Cause baby you don't know a thing about me
+You don't know a thing about me
+
+You ain't got the right to tell me
+When and where to go, no right to tell me
+Acting like you own me lately
+Yeah baby you don't know a thing about me
+You don't know a thing about me
+
+So what? You've got the world at your feet
+And you know everything about everything
+But you don't
+You still think I'm coming back
+But baby you'll see
+
+Oh you think that you know me, know me
+That's why I'm leaving you lonely, lonely
+'Cause baby you don't know a thing about me
+You don't know a thing about me
+
+You ain't got the right to tell me
+When and where to go, no right to tell me
+Acting like you own me lately
+Yeah baby you don't know a thing about me
+You don't know a thing about me
+
+Mr. Know-It-All
+Well ya, you think you know it all
+But ya don't know a thing at all
+Ain't it, yeah baby you don't know a thing about me
+You don't know a thing about me
+
+
+--------------------------------------------------
+
+['Kelsea Ballerini', 'Peter Pan']
+First appearance on Billboard Hot 100: 2016-06-18
+Link attempted: https://genius.com/kelsea-ballerini-peter-pan-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+The smile, the charm, the words, the spark, everything, you had it
+Guess I had a naive heart, 'cause boy I let you have it
+You said I was your only, never thought you'd leave me lonely
+
+[Pre-Chorus]
+You're just a lost boy, with your head up in the clouds
+You're just a lost boy, never keep your feet on the ground
+
+[Chorus]
+Always gonna fly away, just because you know you can
+Never gonna learn there's no such place as Neverland, you don't understand
+You'll never grow up, you're never gonna be a man
+Peter Pan
+
+[Verse 2]
+Deep down, I knew that you were too good to be true
+But every piece and part of me wanted to believe in you
+Now it's happily ever never, I guess now I know better
+
+[Pre-Chorus]
+You're just a lost boy, with your head up in the clouds
+You're just a lost boy, never keep your feet on the ground
+
+[Chorus]
+Always gonna fly away, just because you know you can
+Never gonna learn there's no such place as Neverland, you don't understand
+You'll never grow up, you're never gonna be a man
+Peter Pan
+
+[Bridge]
+You're just a lost boy, yeah, I know who you are
+And you don't know what you lost, boy, too busy chasing stars
+
+[Chorus]
+And you're always gonna fly away, just because you know
+Never gonna learn there's no such place as Neverland, you don't understand
+You'll never grow up, you're never gonna be a man
+You're never grow up, yeah, you're never gonna be a man
+Peter Pan
+Never gonna be a man
+
+
+--------------------------------------------------
+
+['Kendrick Lamar', 'King Kunta']
+First appearance on Billboard Hot 100: 2015-04-04
+Link attempted: https://genius.com/kendrick-lamar-king-kunta-lyrics
+Link response: <Response [200]>
+
+
+
+[Produced by Sounwave; Additional production by Terrace Martin]
+
+[Intro]
+I got a bone to pick
+I don't want you monkey-mouth motherfuckers
+Sittin' in my throne again
+Ayy, ayy, nigga what's happenin'?
+K-Dot back in the hood, nigga!
+I'm mad (He mad!), but I ain't stressin'
+True friends, one question
+
+[Chorus]
+Bitch, where you when I was walkin'?
+Now I run the game, got the whole world talkin'
+King Kunta, everybody wanna cut the legs off him
+Kunta, black man taking no losses, oh yeah
+Bitch, where you when I was walkin'?
+Now I run the game, got the whole world talkin'
+King Kunta, everybody wanna cut the legs off him
+When you got the yams—(What's the yams?)
+
+[Verse 1]
+The yam is the power that be
+You can smell it when I'm walkin' down the street
+(Oh yes, we can, oh yes, we can)
+I can dig rappin', but a rapper with a ghost writer?
+What the fuck happened? (Oh no!)
+I swore I wouldn't tell, but most of y'all sharing bars
+Like you got the bottom bunk in a two-man cell (A two man cell)
+Something's in the water (Something's in the water)
+And if I gotta brown-nose for some gold
+Then I'd rather be a bum than a motherfuckin' baller
+
+[Chorus]
+Bitch, where you when I was walkin'?
+Now I run the game, got the whole world talkin'
+King Kunta, everybody wanna cut the legs off him
+King Kunta, black man taking no losses, oh yeah
+Bitch, where you when I was walkin'?
+Now I run the game, got the whole world talkin'
+King Kunta
+Everybody wanna cut the legs off him
+When you got the yams—(What's the yams?)
+
+[Verse 2]
+The yam brought it out of Richard Pryor
+Manipulated Bill Clinton with desires
+24/7, 365 days times two
+I was contemplatin' gettin' on stage
+Just to go back to the hood, see my enemy, and say… (Oh yeah)
+
+[Chorus]
+Bitch, where you when I was walkin'?
+Now I run the game, got the whole world talkin'
+King Kunta, everybody wanna cut the legs off him
+King Kunta, black man taking no losses, oh yeah
+Bitch, where you when I was walkin'?
+Now I run the game, got the whole world talkin'
+King Kunta, everybody wanna cut the legs off him
+
+[Verse 3]
+You goat-mouth mammyfucker
+I was gonna kill a couple rappers, but they did it to themselves
+Everybody's suicidal, they ain't even need my help
+This shit is elementary, I'll probably go to jail
+If I shoot at your identity and bounce to the left
+Stuck a flag in my city, everybody's screamin' "Compton!"
+I should probably run for mayor when I'm done, to be honest
+And I put that on my momma and my baby boo too
+Twenty million walkin' out the court buildin', woo woo!
+Aw yeah, fuck the judge, I made it past twenty-five, and there I was
+A little nappy-headed nigga with the world behind him
+Life ain't shit but a fat vagina
+Screamin' "Annie, are you okay? Annie, are you okay?"
+Limo tinted with the gold plates
+Straight from the bottom, this the belly of the beast
+From a peasant to a prince to a motherfuckin' king
+
+[Chorus 2]
+Bitch, where was you when I was walkin'—{Gunshot}
+By the time you hear the next pop
+The funk shall be within you—{Gunshot}
+Now I run the game, got the whole world talkin'
+King Kunta, everybody wanna cut the legs off him
+King Kunta, black man taking no losses, oh yeah
+Bitch, where was you when I was walkin'?
+Now I run the game, got the whole world talkin'
+King Kunta, everybody wanna cut the legs off him
+
+[Outro]
+(Fall, fall, fall, fall, fall, fall, fall, fall, fall, fall, fall)
+We want the funk
+We want the funk
+(Now if I give you the funk, you gon' take it?)
+We want the funk
+(Now if I give you the funk, you gon' take it?)
+We want the funk
+(Now if I give you the funk, you gon' take it?)
+We want the funk
+(Do you want the funk?)
+We want the funk
+(Do you want the funk?)
+We want the funk
+(Now if I give you the funk, you gon' take it?)
+We want the funk
+
+[Poem]
+I remember you was conflicted, misusing your influence
+
+
+--------------------------------------------------
+
+['Kendrick Lamar Featuring George Clinton & Thundercat', "Wesley's Theory"]
+First appearance on Billboard Hot 100: 2015-04-04
+Link attempted: https://genius.com/kendrick-lamar-wesleys-theory-lyrics
+Link response: <Response [200]>
+
+
+
+[Produced by Flying Lotus & Ronald "Flippa" Colson
+Additional production by Sounwave & Thundercat]
+
+[Sample: Boris Gardiner]
+Every nigga is a star, ayy, every nigga is a star
+Every nigga is a star, ayy, every nigga is a star
+Every nigga is a star, ayy
+Who will deny that you and I and every nigger is a star?
+
+[Intro: Josef Leimberg]
+Hit me!
+When the four corners of this cocoon collide
+You’ll slip through the cracks hopin' that you’ll survive
+Gather your wit, take a deep look inside
+Are you really who they idolize?
+To pimp a butterfly
+
+[Chorus: Kendrick Lamar]
+At first, I did love you
+But now I just wanna fuck
+Late nights thinkin' of you
+Until I get my nut
+Tossed and turned, lesson learned
+You was my first girlfriend
+Bridges burned, all across the board
+Destroyed, but what for?
+
+[Verse 1: Kendrick Lamar]
+When I get signed, homie, I'ma act a fool
+Hit the dance floor, strobe lights in the room
+Snatch your little secretary bitch for the homies
+Blue-eyed devil with a fat-ass monkey
+I'ma buy a brand new Caddy on fours
+Trunk the hood up, two times, deuce-four
+Platinum on everythin', platinum on weddin' ring
+Married to the game and a bad bitch chose
+When I get signed, homie, I'ma buy a strap
+Straight from the CIA, set it on my lap
+Take a few M-16s to the hood
+Pass 'em all out on the block, what's good?
+I'ma put the Compton swap meet by the White House
+Republican run up, get socked out
+Hit the prez with a Cuban link on my neck
+Uneducated, but I got a million-dollar check like that
+
+[Refrain: Thundercat & George Clinton]
+We should've never gave
+We should've never gave niggas money
+Go back home, money, go back home
+We should've never gave
+We should've never gave niggas money
+Go back home, money, go back home
+(Everybody get out)
+
+[Chorus: Kendrick Lamar, Thundercat & George Clinton]
+At first, I did love you (Love you)
+But now I just wanna fuck (I just wanna fuck)
+Late nights thinkin' of you (Of you)
+Until I get my nut (TilI get my nut)
+Tossed and turned, lesson learned
+You was my first girlfriend
+Bridges burned, all across the board (Across the board)
+Destroyed, but what for?
+
+[Break: Dr. Dre]
+Yo, what's up? It's Dre
+Remember the first time you came out to the house?
+You said you wanted a spot like mine
+But remember, anybody can get it
+The hard part is keepin' it, motherfucker
+
+[Verse 2: Kendrick Lamar]
+What you want? You a house or a car?
+Forty acres and a mule, a piano, a guitar?
+Anythin', see, my name is Uncle Sam, I'm your dog
+Motherfucker, you can live at the mall
+I know your kind (That's why I'm kind)
+Don't have receipts (Oh, man, that's fine)
+Pay me later, wear those gators
+Cliché, then say, "Fuck your haters"
+I can see the baller in you, I can see the dollar in you
+Little white lies, but it's no white-collar in you
+But it's whatever though because I'm still followin' you
+Because you make me live forever, baby
+Count it all together, baby
+Then hit the register and make me feel better, baby
+Your horoscope is a gemini, two sides
+So you better cop everything two times
+Two coupes, two chains, two C-notes
+Too much ain't enough, both we know
+Christmas, tell 'em what's on your wish list
+Get it all, you deserve it, Kendrick
+And when you hit the White House, do you
+But remember, you ain't pass economics in school
+And everything you buy, taxes will deny
+I'll Wesley Snipe your ass before thirty-five
+
+[Bridge: George Clinton & Kendrick Lamar]
+Yeah, lookin' down, it's quite a drop (It's quite a drop, drop, drop)
+Lookin' good when you're on top (When you're on top, you got it)
+You got a medal for us
+Leavin' metaphors metaphysically in a state of euphoria
+Look both ways before you cross my mind
+
+[Refrain: Thundercat & George Clinton]
+We should've never gave
+We should've never gave niggas money
+Go back home, money, go back home
+We should've never gave
+We should've never gave niggas money
+Go back home, money, go back home
+
+[Outro]
+Tax man comin', tax man comin'
+Tax man comin', tax man comin'
+Tax man comin', tax man comin'
+Tax man comin', tax man comin'
+
+
+--------------------------------------------------
+
+['Kid Cudi', 'King Wizard']
+First appearance on Billboard Hot 100: 2013-01-05
+Link attempted: https://genius.com/kid-cudi-king-wizard-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+It’s just me and my niggas
+And my family
+And people that care about me and my fans
+Fuck all these other niggas
+
+[Hook]
+I can’t decide
+What if life’s a lie?
+I push the lames aside
+They’ll learn
+I can never front, know why?
+It’s not my style, no lie
+Fuck all the talk
+In time, they’ll burn
+I can’t decide
+What if life’s a lie?
+I push the lames aside
+They’ll learn
+I can never front, know why?
+Its not my style, no lie
+They’ll never take me alive
+King Wizard!
+
+[Verse 1]
+You love that little bit of new, now throwback
+Cleveland City snakeskin snapback
+Niggas know the uniform, keep the brim low
+You doubt him, don't know a damn thing about him
+What is hip hop without him, y'all niggas just really don't know
+Go, all day every day, hold on with all might
+I gave the world my heart and they gave the kids insight
+Yup now fuck you I ain't left
+I'm outta my mind like all the time
+And a nigga ain't missed one step (yet, yup)
+
+[Hook]
+I can’t decide
+What if life’s a lie?
+I push the lames aside
+They’ll learn
+I can never front, know why?
+It’s not my style, no lie
+Fuck all the talk
+In time, they’ll burn
+I can’t decide
+What if life’s a lie?
+I push the lames aside
+They’ll learn
+I can never front, know why?
+Its not my style, no lie
+They’ll never take me alive
+King Wizard!
+
+[Verse 2]
+My head hurt, gotta give me something that'll make me feel good
+I remember couldn't tell a nigga nothing, man I wish you would
+Niggas ain't working, like me I had to put my bid in
+All this rose gold I'm dipped in
+Juste un clou, while I coast through clouds
+That's my life babe, crystal clear, no cascade
+I'm going, going I'm on a crusade
+To save the kids from the weak shit
+It's finally gonna be my world
+Here all the girls can be my girls
+Just sit back count stacks girl
+Hold a nigga down all the time girl
+
+[Hook]
+I can’t decide
+What if life’s a lie?
+I push the lames aside
+They’ll learn
+I can never front, know why?
+It’s not my style, no lie
+Fuck all the talk
+In time, they’ll burn
+I can’t decide
+What if life’s a lie?
+I push the lames aside
+They’ll learn
+I can never front, know why?
+Its not my style, no lie
+They’ll never take me alive
+King Wizard!
+
+[Outro]
+Right back on your bitch ass
+We ain't playing games hoe
+Yeah, yeah, we…
+Alright Ian
+
+
+--------------------------------------------------
+
+['Kid Cudi', 'Mr. Rager']
+First appearance on Billboard Hot 100: 2010-11-13
+Link attempted: https://genius.com/kid-cudi-mr-rager-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Inhale and I want you to exhale
+And I want you to follow your breath
+10...9...8...7...6...5...4...3...1
+I'm off on the adventure (We're good)
+This here is dedicated to all of the kids like me
+I'm on my way to heaven (Wherever you are, now)
+
+[Verse 1]
+Birds sing, flying around
+You never see them too long on the ground
+You want to be one of them (Yeah)
+You want to be one of them (Yeah)
+You might hear the birds singing, flying around
+You never see them too long on the ground
+You want to be one of them (Yeah)
+You want to be one of them (Yeah)
+
+[Hook]
+Woah now. Hey!
+Mr. Rager, Mr. Rager
+Tell me where you're going, tell us where you're headed
+I'm off on the adventure, Mr. Rager
+Tell me some of your stories, tell us of your travels
+Hey! Mr. Rager, Mr. Rager
+Tell me where you're going, tell us where you're headed
+I'm on my way to heaven, Mr. Rager
+Can we tag along, can we take the journey?
+
+[Verse 2]
+Knocked down, round for round
+You're feeling like you're shot down on the ground
+When will the fantasy end? (Yeah)
+When will the heaven begin? (Yeah)
+You might be knocked down, round for round
+You're feeling like you're shot down on the ground
+When will the fantasy end? (Yeah)
+When will the heaven begin? (Yeah)
+
+[Hook]
+Woah now. Hey!
+Mr. Rager, Mr. Rager
+Tell me where you're going, tell us where you're headed
+I'm off on the adventure, Mr. Rager
+Tell us some of your stories, tell us of your travels
+Hey! Mr. Rager, Mr. Rager
+Tell me where you're going, tell us where you're headed
+I'm on my way to heaven, Mr. Rager
+Can we tag along? Can we take the journey?
+
+[Break x7]
+Oh, oh, oh, oh, oh
+
+[Hook]
+Yeah! Mr. Rager, Mr. Rager
+Tell me where you're going, tell me where you're headed
+I'm off on the adventure, Mr. Rager
+Tell me some of your stories, tell us of your travels
+Mr. Rager-er-er-er-er
+Tell me where you're going, tell us where you're headed
+I'm on my way to heaven, Mr. Rager
+Can we tag along? Can we take that journey?
+Can we take that journey?
+I'm off on the adventure
+
+[Outro]
+Hey! Mr. Rager
+Hey! Mr. Rager
+Hey! Mr. Rager (I'm on my way to heaven)
+Hey! Mr. Rager
+Hey!
+
+3...2...1...
+Scott. Scott. Scott. Scott!
+That's good. You alright?
+
+
+--------------------------------------------------
+
+['Kid Cudi Featuring Cee-Lo', 'Scott Mescudi Vs. The World']
+First appearance on Billboard Hot 100: 2010-11-27
+Link attempted: https://genius.com/kid-cudi-scott-mescudi-vs-the-world-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+(Guitar Notes)
+
+[Verse 1: Kid Cudi]
+What up, how is everyone doing?
+You are now in the world I am ruling
+Take a minute to adjust for the wonderous
+Clusterfuck of fun and enchantment
+I promise you some Generation-Next shit
+Speak for the seller who I left with
+Parallel levels in the dark, dark place
+Tricked all you niggas to a dark, dark fate
+And guided you all with a smile upon my face
+As the sun kisses us on the foreheads gently
+Gentle with the drugs, heavy with the love
+And my speeches on stage rock mountains from a club
+Money doesn't move me except on the literal
+G4 flights, now we're off to Australia
+I wanna see more of the world
+These are more than just words
+These are facts from a winner
+
+[Chorus: Cee-Lo]
+This is a journey into the horizon
+You can see past if it's real to you
+We can meet on the other side
+On the other side
+This is a journey into the horizon
+You can see past if it's real to you
+Then we can meet on the other side
+On the other side
+
+[Verse 2: Kid Cudi]
+What up, how is everyone feeling?
+I hope you understand what you're hearing
+Take a minute to roll up for the wonderous
+Clusterfuck of darkness and evil
+I will paint the Yin and the Yang for you
+And my jeans are Dior for the love of skinnies
+Upgraded, fitted it into the T
+Work hard, makin' sure I don't become a memory
+Hard to press on when the memories remember me
+And they always find the perfect moment
+High speed, my momentum won't slow up none
+Lost in the wind, I've lost all my friends
+Maybe they were never meant to be acquainted
+Money seems to make everything tainted
+Everybody mad 'cause they stuck where I knew 'em last
+Took what I wanted and I did it all blunted
+Oh, oh
+
+[Chorus: Cee-Lo]
+This is a journey into the horizon
+You can see past if it's real to you
+We can meet on the other side
+On the other side, ay
+This is a journey into the horizon
+You can see past if it's real to you
+We can meet on the other side
+On the other side
+
+
+--------------------------------------------------
+
+['Kreayshawn', 'Gucci Gucci']
+First appearance on Billboard Hot 100: 2011-08-13
+Link attempted: https://genius.com/kreayshawn-gucci-gucci-lyrics
+Link response: <Response [200]>
+
+
+
+[Sample]
+One big room full of bad bitches
+
+[Hook]
+And we stunting like
+Gucci Gucci, Louis Louis, Fendi Fendi, Prada
+Them basic bitches wear that shit so I don't even bother
+Gucci Gucci, Louis Louis, Fendi Fendi, Prada
+Them basic bitches wear that shit so I don't even bother
+
+[Verse 1]
+Gucci Gucci, Louis Louis, Fendi Fendi, Prada
+Them basic bitches wear that shit, so I don't even bother
+I put that on my partner, I put that on my family
+Oakland city represent, address me as your majesty
+Yeah you can kiss the ring, but you can never touch the crown
+I smoke a million Swisher blunts and I ain't never coming down
+Bitch, you ain't no Barbie, I see you work at Arby's
+Number 2, super-sized, hurry up I'm starving
+Gnarly, radical, on the block I'm magical
+See me at your college campus baggie full of Adderalls
+Call me if you need a fix, call me if you need a boost
+See them other chickenheads? They don't never leave the coop
+I'm in the coupe cruising, I got the stolen plates
+Serving all the fiends over there by the Golden Gate
+Bridge, I'm colder than the fridge and the freezer
+I'm snatching all your bitches at my leisure
+
+[Sample]
+One big room full of bad bitches
+
+[Hook]
+And we stunting like
+Gucci Gucci, Louis Louis, Fendi Fendi, Prada
+Them basic bitches wear that shit so I don't even bother
+Gucci Gucci, Louis Louis, Fendi Fendi, Prada
+Them basic bitches wear that shit so I don't even bother
+
+[Verse 2]
+Gucci Gucci, Louis Louis, Fendi Fendi, Prada
+I'm lookin like Madonna but I'm flossing like Ivana
+Trump, you know I keep that work in my trunk
+Got my hand on the pump if you wanna press your luck
+I'm yelling "Free V-Nasty" 'til my throat is raspy
+Young, rich and flashy I be where the cash be
+You can't find that? I think you need a Google Map
+My pearl-handled kitty-cat will leave and press your noodle back
+Now Google that groupies follow me like Twitter
+I'm rolling up my catnip and shitting in your litter
+Why you looking bitter? I be looking better
+The type of bitch that make you wish that you ain't never met her
+The editor, director plus I'm my own boss
+So posh, nails fierce with the gold gloss
+Which means nobody getting over me
+I got the swag and it's pumping out my ovaries
+
+[Sample]
+One big room full of bad bitches
+
+[Hook]
+And we stunting like
+Gucci Gucci, Louis Louis, Fendi Fendi, Prada
+Them basic bitches wear that shit so I don't even bother
+Gucci Gucci, Louis Louis, Fendi Fendi, Prada
+Them basic bitches wear that shit so I don't even bother
+
+[Outro]
+Oh, all you basic-ass hoes out there
+Man, I got rooms full of bad bitches
+They don't need Gucci, they don't need Louis
+We swagging, ehh, meow
+
+
+--------------------------------------------------
+
+['Lady Gaga', 'Judas']
+First appearance on Billboard Hot 100: 2011-04-30
+Link attempted: https://genius.com/lady-gaga-judas-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Oh-oh-oh-oh-oh
+I'm in love with Juda-as, Juda-as
+Oh-oh-oh-oh-oh
+I'm in love with Juda-as, Juda-as
+
+[Interlude]
+Judas, Juda-ah-ah
+Judas, Juda-ah-ah
+Judas, Juda-ah-ah
+Judas, Gaga
+Judas, Juda-ah-ah
+Judas, Juda-ah-ah
+Judas, Juda-ah-ah
+Judas, Gaga
+
+[Verse 1]
+When he calls to me, I am ready
+I'll wash his feet with my hair if he needs
+Forgive him when his tongue lies through his brain
+Even after three times he betrays me
+
+[Pre-Chorus]
+(Ah-ah, ah-ah-ah-ah, ah-ah, ah-ah-ah-ah)
+I'll bring him down
+Bring him down, down
+(Ah-ah, ah-ah-ah-ah, ah-ah, ah-ah-ah-ah)
+A king with no crown
+King with no crown
+
+[Chorus]
+I'm just a Holy Fool, oh baby
+It's so cruel, but I'm still in love with Judas, baby
+I'm just a Holy Fool, oh baby
+It's so cruel, but I'm still in love with Judas, baby
+Oh-oh-oh-oh-oh
+I'm in love with Juda-as, Juda-as
+Oh-oh-oh-oh-oh
+I'm in love with Juda-as, Juda-as
+
+[Interulude]
+Judas, Juda-ah-ah
+Judas, Juda-ah-ah
+Judas, Juda-ah-ah
+Judas, Gaga
+
+[Verse 2]
+I couldn't love a man so purely
+Even prophets forgave his crooked way
+I've learned love is like a brick
+You can build a house or sink a dead body
+
+[Pre-Chorus]
+(Ah-ah, ah-ah-ah-ah, ah-ah, ah-ah-ah-ah)
+I'll bring him down
+Bring him down, down
+(Ah-ah, ah-ah-ah-ah, ah-ah, ah-ah-ah-ah)
+A king with no crown
+King with no crown
+
+[Chorus]
+I'm just a Holy Fool, oh baby
+It's so cruel, but I'm still in love with Judas, baby
+I'm just a Holy Fool, oh baby
+It's so cruel, but I'm still in love with Judas, baby
+Oh-oh-oh-oh-oh
+I'm in love with Juda-as, Juda-as
+Oh-oh-oh-oh-oh
+I'm in love with Juda-as, Juda-as
+
+[Breakdown]
+Ew...
+In the most Biblical sense, I am beyond repentance
+Fame hooker, prostitute, wench vomits her mind
+But in the cultural sense, I just speak in future tense
+Judas, kiss me, if offensed, or wear ear condom next time
+
+[Bridge]
+I wanna love you
+But something’s pulling me away from you
+Jesus is my virtue and
+Judas is the demon I cling to
+I cling to
+
+[Chorus]
+I'm just a Holy Fool, oh baby
+It's so cruel, but I'm still in love with Judas, baby
+I'm just a Holy Fool, oh baby
+It's so cruel, but I'm still in love with Judas, baby
+Oh-oh-oh-oh-oh
+I'm in love with Juda-as, Juda-as
+Oh-oh-oh-oh-oh
+I'm in love with Juda-as, Juda-as
+
+[Outro]
+Judas, Juda-ah-ah
+Judas, Juda-ah-ah
+Judas, Juda-ah-ah
+Judas, Gaga
+
+
+--------------------------------------------------
+
+['Lady Gaga', 'Alejandro']
+First appearance on Billboard Hot 100: 2010-04-17
+Link attempted: https://genius.com/lady-gaga-alejandro-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+I know that we are young, and I know you may love me
+But I just can't be with you like this anymore
+Alejandro...
+
+[Verse 1]
+She's got both hands in her pocket
+And she won't look at you, won't look at you
+She hides true love en su bolsillo
+She's got a halo around her finger, around you
+
+[Pre-Chorus]
+You know that I love you, boy
+Hot, like Mexico rejoice
+At this point I've gotta choose nothing to lose
+
+[Chorus]
+Don't call my name, don't call my name, Alejandro
+I'm not your babe, I'm not your babe, Fernando
+Don't want to kiss, don't want to touch
+Just smoke my cigarette and hush
+Don't call my name, don't call my name, Roberto
+Alejandro, Alejandro
+Ale-Alejandro, Ale-Alejandro
+Alejandro, Alejandro
+Ale-Alejandro, Ale-Alejandro
+
+[Interlude]
+Stop, please, just let me go
+Alejandro, just let me go
+
+[Verse 2]
+She's not broken
+She's just a baby
+But her boyfriend's like her dad, just like a dad
+And all those flames that burned before him
+Now he's gotta firefight, gotta cool the bad
+
+[Pre-Chorus]
+You know that I love you, boy
+Hot, like Mexico rejoice
+At this point I've gotta choose nothing to lose
+
+[Chorus]
+Don't call my name, don't call my name, Alejandro
+I'm not your babe, I'm not your babe, Fernando
+Don't want to kiss, don't want to touch
+Just smoke my cigarette and hush
+Don't call my name, don't call my name, Roberto
+Alejandro, Alejandro
+Ale-Alejandro, Ale-Alejandro
+Alejandro, Alejandro
+Ale-Alejandro, Ale-Alejandro
+
+[Bridge]
+Don't bother me, don't bother me
+Alejandro
+Don't call my name, don't call my name
+Bye, Fernando
+I'm not your babe, I'm not your babe
+Alejandro
+Don't want to kiss
+Don't want to touch
+Fernando
+
+Don't call my name, don't call my name
+Alejandro
+I'm not your babe, I'm not your babe
+Fernando
+Don't want to kiss, don't want to touch
+Just smoke my cigarette and hush
+Don't call my name, don't call my name
+Roberto
+
+[Outro]
+Alejandro, Alejandro
+Ale-Alejandro, Ale-Alejandro
+Alejandro, Alejandro
+Ale-Alejandro, Ale-Alejandro
+
+(Don't call my name, don't call my name) Alejandro, Alejandro
+(I'm not your babe, I'm not your babe) Ale-Alejandro, Ale-Alejandro (Fernando)
+(Don't want to kiss, don't want to touch) Alejandro, Alejandro
+Ale-Alejandro, Ale-Alejandro (Just smoke my cigarette and hush)
+(Don't call my name, don't call my name) Alejandro, Alejandro
+Ale-Alejandro, Ale-Alejandro (Roberto)
+
+Alejandro
+
+
+--------------------------------------------------
+
+['Lil Wayne', 'President Carter']
+First appearance on Billboard Hot 100: 2011-09-17
+Link attempted: https://genius.com/lil-wayne-president-carter-lyrics
+Link response: <Response [200]>
+
+
+
+[Produced by Angel "Onhel" Aponte and Infamous]
+
+[Intro]
+God bless america...
+- Carter, are you prepared to take the constitutional oath?
+- I am...
+- Will you place your left hand on the Bible and raise your right hand and repeat after me, I...
+
+[Hook]
+President Carter, Pre-President Carter
+President Carter, Pre-President Carter
+President Carter, Pre-President Carter
+President Carter, Pre-President Carter
+
+[Verse 1]
+Sitting on the world, I got life in my hand
+So these days I try to think twice when I can
+Money on my mind as God as my witness
+Love don't live here and it don't even visit
+I do this for my Uptown politicians
+Walked in the kitchen and found a pot to piss in
+Niggas ain't satisfied until they mama missin'
+Niggas ain't satisfied until they mama miss 'em
+Uh, I'm a monster, exorcisms
+Tote tools like mechanics, mechanisms
+Uh, detrimental on any instrumental
+I say you rappers sweet I pay the incidentals
+I'm beneficial, I've been official
+I say you rappers sweet, tiramisu
+I like my short cake shorter
+Ain't no motherfucker harder than
+
+[Hook]
+President Carter, Pre-President Carter
+President Carter, Pre-President Carter
+President Carter, Pre-President Carter
+President Carter, Pre-President Carter
+
+[Verse 2]
+Nobody gives you a chance, you gotta take chances
+Your family tree, I will break branches
+Cause I don't give a fuck, I put the ass in assassin
+Smoke you like a blunt then it's ashes to ashes
+The future is born, put the past in the casket
+If real shit is dead then nigga I'm a bastard
+Uh, appetite for disaster
+I want a full plate then another plate after
+Uh, yesterday just died
+Tomorrow never cried, the days of our lives
+When shit get deep I'm never afraid to dive
+Let the money pile up until I'm buried alive
+Ask who the fuck want it, I bring it to your doorbell
+Have niggas in ya yard like a yard sale
+Smoking weed, getting head in the oval office
+I changed the stars on the flag into crosses
+
+[Interlude]
+Amen, so now instead of pledge, we pray, yeah
+
+[Hook]
+President Carter, Pre-President Carter
+President Carter, Pre-President Carter
+President Carter, Pre-President Carter
+President Carter, Pre-President Carter
+
+[Verse 3]
+Ya dead to me, brown grass nigga
+I just stand still and let the ground pass nigga
+Bullshit for lunch, brown bag nigga
+Reality’s a bitch and I'mma dance with her
+140 pounds, 5'6 from the ground
+Bitch I'm in the building you ain't even in the lounge
+I tried to fuck the world and couldn't even get aroused
+I ain't looking for the beef but I ain't seen it in a while
+Uh, and we all want world peace
+Murder show, I give your ass good seats
+Shit, I'm much more than a good speech
+
+[Outro]
+Gorillas in suits
+The holy war, the spiritual troops
+Fighting over the mythical truth
+Drowning in the political soup
+They shoot missiles and nukes
+Taking out such a pivotal group
+The body count is the physical proof
+And they thought drugs were killing the youth, *chuckles*
+Thank you, thank you all, I am President Carter
+
+
+--------------------------------------------------
+
+['Lil Wayne', 'Bill Gates']
+First appearance on Billboard Hot 100: 2010-10-16
+Link attempted: https://genius.com/lil-wayne-bill-gates-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+Skinny ass pants, fresh pair of Vans
+If them niggas keep tripping they can share an ambulance
+Throw up blood with my hands
+My gang popping niggas
+Smoke that Kiesha, not that Reggie
+For you name dropping niggas
+All day I do it, I do it like Tony
+Got a sign on my dick that say "Bad Bitches Only"
+I don't drink champagne, it make my stomach hurt
+Man I'm on that Patron, fuck with me wrong and get murked
+Got a silencer on the gun, that bitch go pew
+Got a mean ass swagger, my bitches do too
+Yeah all my niggas nuts and I'm a loose screw
+Bitch I get big bucks, pockets on Bruce Bruce
+Yeah I talk that shit, bitch I got bread, bitch I got toast
+Welcome to The Murder Show — I am the motherfucking host
+They call me Weezy F. Baby, yes I do the fucking most
+I'm at their throats until they choke
+The God has spoke
+I need a smoke, man
+(Smoke break...)
+
+[Hook 1]
+Now let it breathe to 'em
+It go; all these bitches, and niggas still hating
+I used to be balling, but now I'm Bill Gating
+Got a list full of problems
+I'll tend to them later
+Yeah, life is a bitch, but I appreciate her, man
+All these bitches and niggas still hating
+Yeah I used to be balling, but now I'm Bill Gating
+Got a list full of problems
+I'll tend to them later
+Yeah, life is a bitch, but I appreciate her, man
+
+[Verse 2]
+It go; dark-ass shades, I can't see them haters
+Now eat these fucking bullets, don't forget to tip the waiter
+Dress like a skater, ride on you like Shaun White
+I'm high all day, you can call that shit a long flight
+Every night's a long night, every day's a holiday
+I don't fuck with squares, now do that mean I'm out of shape?
+Yes I talk shit, got to defecate to conversate
+Weezy fuck the world, yep I fuck it 'til it ovulate
+Get her to the crib, get in that pussy and just dominate
+Weezy F. Baby and the 'F' is for fornicate
+Polo Ralph Lauren, bitch, that's what my pajamas say
+Big tall glass of some shit you can't pronounciate
+Boogers in the bezel of my watch with the diamond face
+And still I do not give you motherfuckers the time of day
+Pistol in your mouth, I can not make out what you trying to say
+And if they want a war
+Then tell them motherfuckers "Bombs away"
+
+[Hook 2]
+Man, all these bitches, and niggas still hating
+Yeah I used to be balling, but now I'm Bill Gating
+Got a list full of problems — I'll tend to them later
+And life is a bitch, but I appreciate her
+Man, all these bitches, and niggas still hating
+And I used to be balling, but now I'm Bill Gateing
+Got a list full of problems — I'll tend to them later
+Man, life is a bitch, but I appreciate her
+
+[Outro]
+Let it breathe to 'em
+Just let it breathe to 'em, yeah
+Young, Young Mula, baby
+Young Mula, baby
+Young, Young Mula, baby
+Just let it breathe to 'em
+
+
+--------------------------------------------------
+
+['Lil Wayne Featuring Rick Ross', 'John']
+First appearance on Billboard Hot 100: 2011-04-09
+Link attempted: https://genius.com/lil-wayne-john-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Just saw an alien saucer approaching from the sky
+Radio contact has been attempted but cannot be established Instructions are to prepare for an attack by an unknown enemy
+
+[Verse 1: Lil Wayne]
+Fo’ fo’ bulldog: my motherfucking pet
+I point it at you and tell that motherfucker "fetch"
+I’m fucking her good, she got her legs on my neck
+I get pussy, mouth and ass, call that bitch triple threat
+When I was in jail she let me call her collect
+But if she get greedy, I’ma starve her to death
+Top down, it’s upset
+Been fucking the world and nigga I ain't cum yet
+You fuck with me wrong, I knock your head off your neck
+The flight too long, I got a bed on the jet
+The guns are drawn and I ain't talking 'bout a sketch
+I pay these niggas with a reality check
+Prepared for the worst but still praying for the best
+This game is a bitch I got my hand up her dress
+The money don’t sleep, so Weezy can’t rest
+And AK-47 is my fucking address, huh
+
+[Hook: Rick Ross & Lil Wayne]
+I’m not a star, somebody lied, I got a chopper in the car
+I got a chopper in the car, I got a chopper in the car
+Load up the choppers like it’s December 31st
+Roll up and cock it and hit them niggas where it hurts
+If I die today, remember me like John Lennon
+Buried in Louis, I’m talking all brown linen, huh
+
+[Verse 2: Rick Ross]
+Big black nigga in a icey watch
+Shoes on the coupe, bitch I got a Nike shop
+Count the profits you could bring 'em in a Nike box
+Grinding in my Jordans kick 'em off they might be hot, swish!
+I’m swimming in a yellow bitch in the red 911 looking devilish
+Red beam make a bitch nigga sit down
+Thought it were bullet proof till he got hit the fifth time
+Drop palmolive in a nigga dope
+Make it come back even harder than before
+Baby I’m the only one that paid your car notes
+Well connected got killers off in Chicago
+
+[Hook]
+I’m not a star, somebody lied, I got a chopper in the car
+I got a chopper in the car, I got a chopper in the car
+Load up the choppers like it’s December 31st
+Roll up and cock it and hit them niggas where it hurts
+If I die today, remember me like John Lennon
+Buried in Louis, I’m talking all brown linen, huh
+
+[Verse 3: Lil Wayne]
+Talk stupid, get ya head popped
+I got that Esther, bitch I’m Redd Foxx
+Big B’s, Red Sox, I get money to kill time, dead clocks
+You fucking with a nigga who won’t give a fuck
+Empty the clip then roll the window up
+Pussy nigga sweet, them niggas Cinnabon
+I’m in a red bitch, she said she finna cum
+200 thou' on a chain, I don’t need a piece
+That banana clip, let Chiquita speak
+Dark shades, Eazy E, five letters, YMCMB
+Bitch ass nigga, pussy ass nigga
+I see ya looking, with ya looking ass nigga
+You know the rules, kill them all and keep moving
+If I died today it’d be a holiday
+
+[Verse 4: Rick Ross]
+I’m not a star, somebody lied
+I got a chopper in the car, so don’t make it come alive
+Rip yo ass apart then I pull myself together
+YMCMB, double M, we rich forever
+The bigger the bullet the more that bitch gon' bang
+Red on the wall, Basquiat when I paint
+Red Lamborghini till I gave it to my bitch
+My first home invasion, papi gave me 40 bricks
+Son of a bitch, then I made a great escape
+Ain't it funny mom her only son be baking cakes
+Pull up in the sleigh, hop out like I’m Santa Claus
+Niggas gather round, got gifts for each and all of y’all
+Take it home and let it bubble that's the double up
+If you get in trouble that just mean you fucking up
+It’s a cold World I need a bird to cuddle up
+I call the plays, motherfucker huddle up
+
+[Hook]
+I’m not a star, somebody lied, I got a chopper in the car
+I got a chopper in the car, I got a chopper in the car
+
+
+--------------------------------------------------
+
+['Mac Miller', 'Donald Trump']
+First appearance on Billboard Hot 100: 2011-06-11
+Link attempted: https://genius.com/mac-miller-donald-trump-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Hey! Ayo, Sap! What's good, bruh?
+This man is kinda high over here
+
+[Verse 1]
+Ayo, the flyest motherfucker in the room, yeah, you know it's me
+Bitches hatin' on him ‘cause he started out here locally
+Hopefully I'll be at the top soon
+For now I'm at my house on the couch watchin' cartoons
+You know how much you love it when you get it in abundance
+Give a fuck about a budget
+When you always be the subject of discussion
+But it's nothin' when you stop and just say fuck it
+‘Cause you walkin' out in public
+And you hear them talkin' rubbish
+I just wanna ride, ride through the city in a Cutlass
+Find a big butt bitch somewhere, get my nuts kissed
+That's the way it goes when you party just like I do
+Bitches on my dick that used to brush me off in high school
+
+[Bridge]
+Take over the world when I'm on my Donald Trump shit
+Look at all this money! Ain't that some shit?
+Take over the world when I'm on my Donald Trump shit
+Look at all this money! Ain't that some shit?
+
+[Hook]
+We gon' take over the world while these haters gettin' mad
+That's why all my bitches bad
+They see this crazy life I have and they in awe
+We gonna win, you can take the lose or draw
+What I'm in got these hoes who used to play me in they bras
+We gon' take over the world while these haters gettin' mad
+Take over the world, watch these haters get mad
+That's why all my bitches bad
+They see this crazy life I have
+Hop into the car and then we take them to the pad, it's a wrap
+
+[Verse 2]
+And motherfuckers think they know me, but they never met the kid
+Style come with excellence and money make benevolence
+Irrelevant for the fuckers who never been intelligent
+I kill my Henny, break the bottle for the hell of it
+Tell a bitch that she better bring a friend
+And if she want an autograph she better bring a pen
+Yeah, the party never end, this life is what I recommend
+And if you got a ho picked for me, then she better be a 10
+I ain't picky, but these girls be actin' tricky
+When the situation's sticky and the liquor got 'em silly
+
+[Bridge]
+But I take over the world when I'm on my Donald Trump shit
+Look at all this money! Ain't that some shit?
+
+[Hook]
+We gon' take over the world while these haters gettin' mad
+That's why all my bitches bad
+They see this crazy life I have and they in awe
+We gonna win, you can take the lose or draw
+What I'm in got these hoes who used to play me in they bras
+We gon' take over the world while these haters gettin' mad
+Take over the world, watch these haters get mad
+That's why all my bitches bad
+They see this crazy life I have
+Hop into the car and then we take them to the pad, it's a wrap
+
+[Produced by Sap]
+
+
+--------------------------------------------------
+
+['Madonna Featuring Nicki Minaj', "Bitch, I'm Madonna"]
+First appearance on Billboard Hot 100: 2015-07-04
+Link attempted: https://genius.com/madonna-bitch-im-madonna-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro: Madonna]
+You're gonna love this
+You can't touch this
+'Cause I'm a bad bitch
+
+[Verse 1: Madonna]
+We hit the elevator right up to the rooftop
+The bass is pumping, make me wanna screw the top off
+Yeah, we'll be drinking and nobody's gonna stop us
+And we'll be kissing anybody that's around us
+
+[Pre-Chorus 1: Madonna]
+I just wanna have fun tonight
+(Blow up this shit tonight)
+Put me under the flashing light
+Oh-oh-oh-oh
+Let me blow up this house tonight
+(Gonna blow up)
+
+[Chorus: Madonna]
+We go hard or we go home
+We gon do this all night long
+We get freaky if you want
+Na-na-na-na-na
+We go hard or we go home
+We gon do this all night long
+We get freaky if you want
+Bitch, I'm Madonna
+Bitch, bitch I'm Madonna
+Bitch, bitch I'm Madonna
+
+[Verse 2: Madonna]
+We're jumping in the pool and swimming with our clothes on
+I poured a beer into my shoe and got my freak on
+The neighbor's pissed and says he's gonna call the Five-O
+If they show up then we are gonna give a good show
+
+[Pre-Chorus 2: Madonna]
+I just wanna go up tonight
+Pull me under the flashing light
+Oh-oh-oh-oh
+Let me blow up this house tonight
+(Gon' blow up)
+
+[Drop: Nicki Minaj]
+Uhh
+Beep-beep, bitch move
+
+[Chorus: Madonna]
+We go hard or we go home
+We gon do this all night long
+We get freaky if you want
+Na-na-na-na-na
+We go hard or we go home
+We gon do this all night long
+We get freaky if you want
+Bitch, I'm Madonna
+Bitch, bitch, I'm Madonna
+Bitch, I'm Madonna
+Bitch, I'm Madonna
+Bitch, I'm Madonna
+Bitch, I'm Madonna
+Bitch, I'm Madonna
+Bitch, I'm Madonna
+Bitch, I'm Madonna
+
+[Bridge: Madonna]
+Who do you think you are?
+You can't mess with this lucky star
+Oh-oh-oh-oh
+Who do you think you are?
+
+[Verse 3: Nicki Minaj]
+Poured up with my nose up and that rose up in that thinga
+I'm froze up, with my stove up, cause he eating like it's his dinner
+I run shit, I don't fall back, cause I'm on track, I'm a sprinter
+I'm bossed up, I got 'em awestruck, it's not a toss up, I'm the winner
+Beep-beep, bitch move, 'fore I bang-bang with that uzz
+That's Miu Miu on my shoes, ain't got a thing left for me to prove
+It's that bottle service all night,it's that pop and urban just right
+It's that "go hard or go home" zone, bitch
+I'm Madonna, these hoes know
+
+[Chorus: Madonna]
+We go hard or we go home
+We gon do this all night long
+We get freaky if you want
+Na-na-na-na-na
+We go hard or we go home
+We gon do this all night long
+We get freaky if you want
+Bitch, I'm Madonna
+
+[Outro: Madonna]
+We do it like this
+You're gonna love this
+You can't touch this
+'Cause I'm a bad bitch
+Who do you think you are? ('Cause I'm a bad bitch)
+Who do you think you are? ('Cause I'm a bad bitch)
+Who do you think you are? ('Cause I'm a bad bitch)
+Who do you think you are?
+
+[Outro: Nicki Minaj]
+Go hard or go home zone, bitch
+I'm Madonna, these hoes know
+
+
+--------------------------------------------------
+
+['Maroon 5 Featuring Christina Aguilera', 'Moves Like Jagger']
+First appearance on Billboard Hot 100: 2011-07-09
+Link attempted: https://genius.com/maroon-5-moves-like-jagger-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1: Adam Levine]
+Just shoot for the stars, if it feels right
+Then aim for my heart, if you feel like
+And take me away
+Make it okay
+I swear I'll behave
+You wanted control, so we waited
+I put on a show, now we're naked
+You say I'm a kid
+My ego is big
+I don't give a shit
+And it goes like this
+
+[Chorus: Adam Levine]
+Take me by the tongue and I'll know you
+Kiss me till you're drunk and I'll show you
+All the moves like Jagger
+I've got the moves like Jagger
+I've got the mooooooves like Jagger
+I don't need try to control you
+Look into my eyes and I'll own you
+With them the moves like Jagger
+I've got the moves like Jagger
+I've got the moooooooves like Jagger
+
+[Verse 2: Adam Levine]
+Baby, it's hard, when you feel like
+You're broken and scarred, nothing feels right
+But when you're with me
+I make you believe
+That I've got the key
+So get in the car, you can ride it
+Wherever you want, get inside it
+And you want to steer
+But I'm shifting gears
+I'll take it from here
+And it goes like this
+
+[Chorus: Adam Levine]
+Take me by the tongue and I'll know you
+Kiss me till you're drunk and I'll show you
+All the moves like Jagger
+I've got the moves like Jagger
+I've got the mooooooves like Jagger
+I don't need try to control you
+Look into my eyes and I'll own you
+With them the moves like Jagger
+I've got the moves like Jagger
+I've got the moooooooves like Jagger
+
+[Bridge: Christina Aguilera & Adam Levine]
+You wanna know, how to make me smile?
+Take control, own me just for the night
+And if I share my secret
+You're gonna have to keep it
+Nobody else can see this
+So watch and learn, I won't show you twice
+Head to toe, ooh baby, rub me right
+And if I share my secret
+You're gonna have to keep it
+Nobody else can see this
+And it goes like this
+
+[Chorus: Adam Levine]
+Take me by the tongue and I'll know you
+Kiss me till you're drunk and I'll show you
+All the moves like Jagger
+I've got the moves like Jagger
+I've got the mooooooves like Jagger
+I don't need try to control you
+Look into my eyes and I'll own you
+With them the moves like Jagger
+I've got the moves like Jagger
+I've got the moooooooves like Jagger
+
+[Outro]
+With them the moves like Jagger
+I've got the moves like Jagger
+I've got the moves, like Jagger
+
+
+--------------------------------------------------
+
+['Mary J. Blige Featuring Drake', 'Mr. Wrong']
+First appearance on Billboard Hot 100: 2012-02-04
+Link attempted: https://genius.com/mary-j-blige-mr-wrong-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1: Drake]
+Don’t it seem like
+Like I’m always there when it matters
+But missing most of the other time
+A terrible pattern
+The rewards I see from working
+Made me an addict
+There's way more people that want it
+Than people that have it
+I don't get it, I would hate to think I tricked ‘em
+They fall victim to my system
+Guess I sure know how to pick em
+And I’m always her regret
+Yeah, I’m always her regret
+And I always make it harder on whoever’s coming next
+It goes up and down, it’s just up and down
+She’s crying now but she’ll laugh again
+Cause we on the rise and she here with us
+And expensive shit, just keeps happening
+She loves it, she stares at me like who does this
+And we hold hands while I pray that she’s not the type to hold grudges
+I’m wrong..
+
+[Verse 2: Mary J Blige]
+Bad boys ain't no good
+Good boys ain't no fun
+Lord knows that I should
+Run off with the right one
+
+[Chorus: Mary J Blige]
+Me and Mr. Wrong get along so good (so good)
+Even though he breaks my heart so bad (so bad)
+We got a special thing going on
+Me and Mr. Wrong (Mr. Wrong)
+Even if I try, no, I never could
+Give him up cause his loves like that
+Ain't no way that I’m moving on
+I love my Mr. Wrong
+
+[Verse 3: Mary J Blige]
+Hung up off your good
+You call and I run
+My fam' is screaming at me don’t do it
+"Don't do it, Mary!"
+I guess they never had none
+
+[Chorus: Mary J Blige]
+Me and Mr. Wrong get along so good (so good)
+Even though he breaks my heart so bad (so bad)
+We got a special thing going on(going on)
+Me and Mr. Wrong (Mr. Wrong)
+Even if I try, no, I never could
+Give him up cause his loves like that
+Ain't no way that I’m moving on
+I love my Mr. Wrong
+
+[Bridge: Mary J Blige]
+When he put that loving on me, I can’t think of nothing
+That’ll make me walk out
+I’m holding on
+I love my Mr. Wrong
+He be kissing and touching on me
+I can’t help but love him
+I must be out my mind
+For going so strong
+I love my Mr. Wrong
+Mr. Wrong
+
+[Chorus: Mary J Blige]
+Me and Mr. Wrong get along so good (so good)
+Even though he breaks my heart so bad (so bad)
+We got a special thing going on(going on)
+Me and Mr. Wrong (Mr. Wrong)
+Even if I try, no, I never could (I never could)
+Give him up cause his loves like that
+Ain't no way that I’m moving on
+I love my Mr. Wrong
+
+[Outro: Mary J. Blige]
+Mr. Wrong
+
+
+--------------------------------------------------
+
+['Michael Jackson', 'Billie Jean']
+First appearance on Billboard Hot 100: 2014-06-07
+Link attempted: https://genius.com/michael-jackson-billie-jean-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+She was more like a beauty queen from a movie scene
+I said, "Don't mind, but what do you mean, I am the one
+Who will dance on the floor in the round?"
+She said I am the one who will dance on the floor in the round
+She told me her name was Billie Jean
+As she caused a scene
+Then every head turned with eyes that dreamed of being the one
+Who will dance on the floor in the round
+
+[Pre-Chorus 1]
+People always told me, "Be careful of what you do
+And don't go around breaking young girls' hearts"
+And mother always told me, "Be careful of who you love
+And be careful of what you do, 'cause the lie becomes the truth"
+
+[Chorus]
+Billie Jean is not my lover
+She's just a girl who claims that I am the one
+But the kid is not my son
+She says I am the one, but the kid is not my son
+
+[Verse 2]
+For forty days and for forty nights, the law was on her side
+But who can stand when she's in demand?
+Her schemes and plans
+'Cause we danced on the floor in the round
+So take my strong advice, just remember to always think twice
+(Don't think twice) Do think twice! (hoo)
+She told my baby we'd danced till three, then she looked at me
+Then showed a photo of a baby crying, his eyes were like mine (oh no)
+'Cause we danced on the floor in the round, baby
+
+[Pre-Chorus 2]
+People always told me, "Be careful of what you do
+And don't go around breaking young girls' hearts"
+She came and stood right by me
+Then the smell of sweet perfume
+This happened much too soon
+She called me to her room
+
+[Chorus]
+Billie Jean is not my lover
+She's just a girl who claims that I am the one
+But the kid is not my son
+Billie Jean is not my lover
+She's just a girl who claims that I am the one
+But the kid is not my son
+She says I am the one, but the kid is not my son
+She says I am the one, but the kid is not my son
+Billie Jean is not my lover
+She's just a girl who claims that I am the one
+But the kid is not my son
+She says I am the one, but the kid is not my son
+She says I am the one
+She says she is the one
+She says I am the one
+
+[Outro]
+Billie Jean is not my lover
+Billie Jean is not my lover
+Billie Jean is not my lover
+Billie Jean is not my lover
+Billie Jean is not my lover
+Billie Jean is not my lover
+
+
+--------------------------------------------------
+
+['Migos', 'Versace']
+First appearance on Billboard Hot 100: 2013-09-21
+Link attempted: https://genius.com/migos-versace-lyrics
+Link response: <Response [200]>
+
+
+
+[Hook]
+Versace, Versace, Versace, Versace
+Versace, Versace, Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace, Versace, Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace
+
+[Verse 1: Quavo]
+Versace, Versace, Medusa head on me like I'm 'Luminati
+I know that you like it, Versace, my neck and my wrist is so sloppy
+Versace, Versace, I love it, Versace the top of my Audi
+My plug, he John Gotti, he give me the ducks and I know that they're mighty
+Shoes and shirt Versace, your bitch want in on my pockets
+She ask me why my drawers silk, I told that bitch "Versace"
+Cheetah print on my sleeve, but I ain't ever been in the jungle
+Try to take my sack, better run with it, nigga don't fumble
+Wow, I mean I just left the Versace store
+
+[Hook: Quavo]
+Versace, Versace, Versace, Versace
+Versace, Versace, Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace, Versace, Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace
+
+[Verse 2: Takeoff]
+You can do Truey, I do Versace
+You copped the Honda, I copped the Mazi
+You smoke the mid, I smoke exotic
+I set the trend, you niggas copy
+Cooking the dope, like I work at Hibachi
+Lookin and watching, blow it, hot like some Taki
+Come in my room, my sheet Versace
+When i go to sleep, I dream Versace
+Medusa, Medusa, Medusa
+These niggas, they wishing they knew ya
+They coppin' the Truey, remixing the Louie
+My blunts is fat as Rasputia
+In a striped shirt like I'm Tony the Tiger
+I'm beating the pot, Call me Michael
+Lot of you niggas they copy
+Look at my closet Versace, Versace
+
+[Hook: Quavo]
+Versace, Versace, Versace, Versace
+Versace, Versace, Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace, Versace, Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace
+
+[Verse 3: OffSet]
+King of Versace, Medusa my wifey
+My car is Versace, tiger stripes on my Mazi
+I'm dressing so nice, they can't even copy
+You think I'm Egyptian, this gold on my body
+My money my mission, two bitches they kissing
+My diamonds is pissy, my swag is exquisite
+Young Offset no preacher, but you niggas listen
+Them blue and white diamonds dey look like the Pistons
+Codeine sippin, Versace I'm gripping them bands in my pocket
+You know that I'm living
+I'm draped up in gold but no Pharaoh
+Rockin' handcuffs, that's Ferragamo
+Bricks by the boat, overload
+I'm think I'm the don, but no Rocko
+This the life that I chose
+Bought out the store can't go back no more
+Versace my clothes, while I'm sellin them bows
+Versace took over, it took out my soul
+
+[Hook: Quavo]
+Versace, Versace, Versace, Versace
+Versace, Versace, Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace, Versace, Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace, Versace
+Versace Versace, Versace Versace
+
+
+--------------------------------------------------
+
+['Mindless Behavior Featuring Diggy', 'Mrs. Right']
+First appearance on Billboard Hot 100: 2011-08-27
+Link attempted: https://genius.com/mindless-behavior-mrs-right-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro:]
+Where is Mrs. Right?
+I gotta find her
+
+[Diggy]
+Streamline and Conjunction
+
+[Hook]
+Where is Mrs. Right? I gotta see her
+Travel all across the world just to meet her
+Get me on a flight, I gotta see her
+Travel all across the world just to meet her
+Travel to L.A., maybe to the Bay
+From the Chi-Town, yo she might be out the states
+Book a flight to London, ook a flight to France
+Can we go to Switzerland, can we hit Japan?
+
+[Verse 1]
+Shawty say ya don’t but I betcha do
+MB on your ringtone, posters in your room
+Sassy lil' thang, li-like the way ya talk
+Heard ya got the goods gon head show 'em off
+Take a picture quick, send it to my phone
+Dimple in your cheek, white gucci stunnas on
+Don’t know where you’ve been hidin from me so long
+Prodigy, Roc, Ray Ray, and Princeton we on
+So baby come on
+
+[Hook]
+
+[Diggy Call Out]
+Light skinned-ed, or da-dark skinned-ed
+Long hair, don’t care, long as your heart's in it
+Looking for my Mrs
+Enough to drive me insane
+Matter fact, ayo Prodigy sang
+
+[Verse 2]
+Hoppin on a plane, comin straight to y'all
+In Tokyo we say Konichiwa, it's off the wall
+London in the spring, Pa-Paris in the fall
+We don't discriminate, girls know we love ‘em all
+All my German chicks, let me kiss ya back
+Open up your MacBook, put me on your lap
+Stay sendin me smiley faces on the chat
+Met some good girls, yeah they all over the map
+But where she at, where she at
+
+[Hook]
+
+[Bridge]
+Flying (so high, so high)
+Destination everywhere
+Gotta find a way to get to where
+You are, you are
+
+[Verse 3: Diggy]
+Where's my Mrs. Right now
+I need her right now
+I got some things I want to say
+So I’m gonna write it down
+Wipe me down, wipe me down
+If I like you, you wifey now
+I predict one day we’ll be together
+I’m a psychic (aowww)
+Been to the south, been to the Bay
+Even took a few trips outta States
+I know you an angel
+So maybe I should look outer space
+D-I-Double G-Y's lookin for the right the one
+Prodigy, Double R, Princeton, Ray Ray
+Let ‘em know where we comin from
+
+[Hook]
+
+
+--------------------------------------------------
+
+['Nicki Minaj', 'Roman In Moscow']
+First appearance on Billboard Hot 100: 2011-12-17
+Link attempted: https://genius.com/nicki-minaj-roman-in-moscow-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+I’m big willy, no bike gear
+I told you bitches last year I’m a rap bitch nightmare
+That’s why I call you Buzz Lightyear
+’Cause by the time you start buzzin’, bitch, you gon’ have white hair
+Paparazzi was a fright scare
+When I landed out in London it was lookin’ like Mike, dear
+Mike Jack—who’s bad?
+Ain’t on my period, but I got a new pad
+Channel 5; news flash
+Pussy clean; who smash?
+None of y’all! canary yellow ball!
+These bitches should be worshippin’ me in the synagogue!
+Hum, hum, done the prayer
+B-b-b-bitch I ball; underwear
+Oh! Hum, hum, done the prayer?
+Did I tell ’em that I ball; underwear?
+Okay
+Roman, yo what da fuck? (4x)
+Bitches is insane
+These bitches ain’t in my lane
+Only bitches in the plane is bitches that give me brain!
+
+[Verse 2]
+Heron, this shit is lethal
+Roman: this is the sequel
+Moscow: that’s where I keep him
+Until he’s fully charged
+Your favorite rapper prolly suck
+As for me, Icy; hockey puck
+Anyway, I’m on that new shit
+Every trend, I introduce it
+Motherfuck you with a big dick
+I’m a racist, I’m a bigot
+Bitch, I’m thicker than a midget
+Yeah I’m crazy—just a smidgen
+Motherfuck me, get my wumble
+And some Kimmy for my knuckle
+Hold on…fuck you
+Brace yourself; buck tooth
+Yeah I golf; putt too
+Swallow balls; nuts toooooooo
+
+Camel toe
+Roman, yo what da fuck? (4x)
+Bitches is insane
+These bitches ain’t in my lane
+Only bitches in the plane is bitches that give me brain!
+Yeah, ain’t no motherfuckin’ bridge, bitch
+Ain’t no motherfuckin’ hook, ain’t no motherfuckin’ third motherfuckin’ verse
+Roman’s back, bitch
+I fucked up your life last year this time, remember dat?
+Remember dat, bitch? (2x)
+I’m baaaaaaaaccccck
+
+[Outro]
+I double-dog dare ya
+I double-dog dare ya
+I double-dog dare any one of ya bitches to come out
+I triple-dog dare ya
+I triple-dog dare ya
+I triple-dog dare any one of ya bitches to come out
+I quadruple-dog dare ya
+I quadruple-dog dare ya
+I quadruple-dog dare any one of ya bitches to come out
+I—uh—five times dare…you…bitch-ass hoes…YEAUHH!
+
+
+--------------------------------------------------
+
+['Nicki Minaj Featuring Eminem', "Roman's Revenge"]
+First appearance on Billboard Hot 100: 2010-11-20
+Link attempted: https://genius.com/nicki-minaj-romans-revenge-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1: Nicki Minaj as Roman Zolanski]
+I am not Jasmine, I am Aladdin
+So far ahead, these bums is laggin'
+See me in that new thing, bums is gaggin'
+I'm startin' to feel like a dungeon dragon
+Raah, raah, like a dungeon dragon
+I'm startin' to feel like a dungeon dragon
+Look at my show footage, how these girls be spazzin'
+So fuck I look like gettin' back to a has-been?
+Yeah, I said it, has-been
+Hang it up; flatscreen
+Plasma
+"Hey Nicki, hey Nicki," asthma
+I got the pumps, it ain't got medicine
+I got bars; sentencin'
+I'm a bad bitch, I'm a cunt
+And I'll kick that ho; punt
+Forced trauma; blunt
+You play the back, bitch, I'm in the front
+You need a job, this ain't cuttin' it
+Nicki Minaj is who you ain't fuckin' with
+You lil' brag-a-lot, I beat you with a pad-a-lock
+I am a movie; camera block
+You outta work, I know it's tough
+But enough is enough
+
+[Hook: Nicki Minaj as Roman Zolanski]
+Raah, raah, like a dungeon dragon
+Raah, raah, raah, like a dungeon dragon
+Raah, raah, raah, like a dungeon dragon
+Like a dungeon dragon, like a dungeon dragon
+
+[Verse 2: Eminem as Slim Shady]
+I ain't into S&M, but my whip's off the chain
+A little drop of candy paint drips off the frame
+Twisted-ass mind, got a pretzel for a brain
+An eraser for a head, fuckin' pencil for a frame
+You don't like it, then peel off, bitch!
+Every last woman on Earth I'll kill off
+And I still wouldn't fuck you, slut!
+So wipe the smile on your grill off
+I swear to God I'll piss a Happy Meal off
+Get the wheels turning, spin, and wheel off
+Snap the axle in half, bust the tie-rod
+Quit hollering "Why, God?"
+He ain't got shit to do with it
+Bygones'll never be bygones
+The world ain’t finished swallowing my wad
+I ain't finished blowing it, nice bra
+Hope it'll fit a tough titty, bitch, life's hard
+I swear to God, life is a dumb blonde white broad
+With fake tits and a bad dye job
+Who just spit in my fuckin' face and called me a fuckin' tightwad
+So finally I broke down and bought her an iPod
+And caught her stealing my music
+So I tied her arms and legs to the bed
+Set up the camera and pissed twice on her
+Look, two pees and a tripod!
+The moral to the story is, life's treating you like dry sod?
+Kick it back in its face, my God
+It's Shady and Nicki Minaj, you might find the sight quite odd
+But don't ask why, bitch (Ask "Why not?")
+
+[Hook: Eminem as Slim Shady]
+The world-world is my punching bag and
+If I'm garbage, you're a bunch of maggots
+Make that face, go on, scrunch it up at me
+Show me the target so I can lunge and attack it
+Like a raah, raah, like a dungeon dragon
+You fell off, off, they musta bumped your wagon
+You musta went off the back, I'm 'bout to go off the deep end
+I told you to stay in your lane, you just jumped in traffic
+
+[Verse 3: Nicki Minaj as Roman Zolanski]
+Is this the thanks that I get for puttin' you bitches on?
+Is it my fault that all of you bitches gone?
+Shoulda sent a thank-you note, you little ho
+Now I'ma wrap your coffin with a bow
+"Nicki, she's just mad 'cause you took the spot"
+Word, that bitch mad 'cause I took the spot?
+Well, bitch, if you ain't shittin', then get off the pot
+Got some niggas out in Brooklyn that'll off your top
+I hear them mumblin', I hear the cacklin'
+I got 'em scared, shook, panickin'
+Overseas, church, Vatican
+You at a standstill; mannequin
+You wanna sleep on me? Overnight?
+I'm the motherfuckin' boss, overwrite
+And when I pull up, vroom, motorbike
+Now all my niggas gettin' buck; overbite
+I see them dusty-ass Filas, Levi's
+Raggedy Ann, holes in your knee-highs
+I call the play, now do you see why?
+These bitches callin' me Manning Eli
+Manning Eli, these bitches callin' me Manning Eli!!
+
+[Verse 4: Eminem as Slim Shady]
+All you lil' faggots can suck it
+No homo, but I'ma stick it to 'em like refrigerator magnets
+And I'm crooked enough to make straitjackets bend
+Yeah, look who's back again, bitch, keep acting as if
+You had the same passion that I have, yeah, right
+Still hungry, my ass, you ass-dicks had gastric bypass
+Ain't hot enough to set fire to dry grass
+And 'bout as violent as hair on eyelids but eyelash
+Go take a flying leap of faith off a fuckin' balcony
+'Fore I shove a falcon wing up your fly ass
+You know what time it is, so why ask?
+When Shady and Nicki's worlds clash
+It's (high class) meets (white trash)
+
+[Hook: Nicki Minaj as Roman Zolanski]
+Raah, raah, like a dungeon dragon
+Raah, raah, raah, like a dungeon dragon
+Raah, raah, raah, like a dungeon dragon
+Like a dungeon dragon, like a dungeon dragon
+
+[Outro: Nicki Minaj as Martha Zolanski]
+Roman, Roman! Stop it, stop it!
+You've gone mad, mad, I tell you, mad!
+You and this boy Slim Shady!
+What's going on? They'll lock you away!
+They'll put you in a jail cell! I promise!
+Take your mother's warning, Roman, please
+Back to bed! Run along! Let's go! Come on!
+Wash your mouth out with soap, boys
+
+
+--------------------------------------------------
+
+['Nicki Minaj Featuring Lil Wayne', 'Roman Reloaded']
+First appearance on Billboard Hot 100: 2012-03-17
+Link attempted: https://genius.com/nicki-minaj-roman-reloaded-lyrics
+Link response: <Response [200]>
+
+
+
+[Hook: Nicki Minaj]
+Bang, my shit bang
+B-B-Bang, Bang, my shit bang
+B-B-Bang
+
+[Verse 1: Nicki Minaj]
+Yo, I guess I went commercial, just shot a commercial
+When I flew to the set, though, I ain’t fly commercial
+And the ad is global; your ad is local
+When we shot it was a lot of different agricultures
+So I laugh at hopefuls; "Nicki pop!"
+Only thing that’s pop is my endorsement op
+Fuck around and I'll have to go and reinforce the Glock
+
+[Hook: Nicki Minaj]
+Bang, my shit bang
+B-B-Bang, Bang, my shit bang
+B-B-Bang
+
+[Verse 2: Nicki Minaj]
+Yo, is it me, or did I put these rap bitches on the map again?
+You mad ’cause I’m at the Grammy's with the Vatican
+You in the booth, but I'm who you be channelin’
+Why they never bring you name up at the panel, then?
+Hottest MCs, Top 5; you need money? I got mine
+More knots than Eric on Basketball Wives
+(Ya dig?)
+
+[Hook: Nicki Minaj]
+Bang, my shit bang
+B-B-Bang, Bang, my shit bang
+B-B-Bang
+
+[Verse 3: Nicki Minaj]
+I couldn’t do your TV show, I needed ten more mil
+Not ten on the back, I need ten on signin'
+Give that shit to a washed up bitch, I’m winnin’
+‘cause if I had a label I would never sign, you hoes
+Take bitches to school, then I Columbine these hoes
+I hear the slick shit, bitch, you washed
+All you hoes cryin’—Christopher Bosh
+
+[Hook: Nicki Minaj]
+Bang, my shit bang
+B-B-Bang, Bang, my shit bang
+B-B-Bang
+
+[Verse 4: Nicki Minaj]
+Now when I tell ‘em it’s Barbie, bitch
+Yes, I really do mean that it’s Barbie, bitch
+Ask Mattel, they auctioned my Barbie, bitch
+Raggedy Ann could never be a Barbie, bitch
+You at the bottom of the barrel scrapin’
+I’m out in LA at the Ice Age tapin’
+I’m chillin’ at the top, I got ample time
+Bite me—Apple sign, ha
+
+[Hook: Nicki Minaj]
+Bang, my shit bang
+B-B-Bang, Bang, my shit bang
+B-B-Bang
+
+[Verse 5: Lil Wayne]
+Kush on my breath, cocaine on my tongue
+Eat that pussy, make it numb, she can't feel herself cum
+Got a body on my gun, fuck the world with my thumb
+Pop a molly, smoke a blunt, that mean I'm a high roller
+My ex wanna work it out, bitch, try yoga
+Two hoes in the bed, tell them hoes slide over
+Excuse my French, two bitches and moi
+That a Nicki Ménage à trois, ha
+Tunechi
+
+[Hook: Nicki Minaj]
+Bang, my shit bang
+B-B-Bang, Bang, my shit bang
+B-B-Bang
+
+[Verse 6: Lil Wayne]
+Um, my shit so cold, man, it don't even stank-o
+Destructive ass nigga, watch me break the bank
+Weezy F and the 'F' is for "fill in the blank"
+I say shout out Mack Maine, backyard bully
+And the weed purple like a black girl pussy
+Word, middle finger on the trigger
+So you know that mean fuck a nigga
+
+[Hook: Nicki Minaj]
+Bang, my shit bang
+B-B-Bang, Bang, my shit bang
+B-B-Bang
+
+[Hook: Lil Wayne]
+Bang-bang, my bitch bang
+She bang bang, well that's cause my bitch is Nina Ross
+And she bang, b-b-bang
+Bang bang, she go bang bang
+(bang-bang, bang, bang-bang)
+We bang, bang-bang
+Bang, b-b-b-bang, bang, bang, blood gang
+Hey!
+
+
+--------------------------------------------------
+
+['One Direction', 'Olivia']
+First appearance on Billboard Hot 100: 2015-12-05
+Link attempted: https://genius.com/one-direction-olivia-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1: Niall]
+Remember the day we were giving up
+When you told me I didn't give you enough
+And all of your friends were saying I'll be leaving you
+She's lying in bed with my t-shirt on
+Just thinking how I went about it wrong
+This isn't the stain of a red wine, I'm bleeding love
+
+[Pre-Chorus: Niall]
+Please believe me, don't you see
+The things you mean to me?
+Oh I love you, I love you
+I love, I love, I love Olivia
+
+[Chorus: Harry]
+I live for you, I long for you, Olivia
+I've been idolising the light in your eyes, Olivia
+I live for you, I long for you, Olivia
+Don't let me go, don't let me go
+
+[Verse 2: Liam]
+Say what you're feeling and say it now
+'Cause I got the feeling you're walking out
+And time is irrelevant when I've not been seeing ya
+The consequences of falling out
+Are something I’m having nightmares about
+And these are the reasons I'm crying out to be with ya
+
+[Pre-Chorus: Liam]
+Please believe me, don't you see
+The things you mean to me?
+Oh I love you, I love you
+I love, I love, I love Olivia
+
+[Chorus: Harry]
+I live for you, I long for you, Olivia
+I've been idolising the light in your eyes, Olivia
+I live for you, I long for you, Olivia
+Don't let me go, don't let me go
+
+[Bridge: Harry]
+When you go and I'm alone
+You live in my imagination
+The summertime and butterflies
+All belong to your creation
+I love you, it's all I do, I love you
+
+[Chorus: Louis]
+I live for you, I long for you, Olivia
+I've been idolising the light in your eyes, Olivia
+I live for you, I long for you, Olivia
+Don't let me go, don't let me go, don't let me go
+
+
+--------------------------------------------------
+
+['One Direction', 'Diana']
+First appearance on Billboard Hot 100: 2013-12-07
+Link attempted: https://genius.com/one-direction-diana-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro: Zayn]
+Diana
+
+[Verse 1: Liam & Harry]
+The front pages are your pictures, they make you look so small
+How could someone not miss you at all?
+I never would mistreat you, oh I'm not a criminal
+I speak a different language, but I still hear your call
+
+[Chorus: Zayn]
+Diana, let me be the one to
+Light a fire inside those eyes
+You've been lonely, you don't even know me
+But I can feel you crying
+Diana, let me be the one to
+Lift your heart up and save your life
+I don't think you even realise
+Baby, you'd be saving mine, Diana
+
+[Verse 2: Niall & Louis]
+It's only been four months, but you've fallen down so far
+How could someone mislead you at all?
+I wanna reach out for ya, I wanna break these walls
+I speak a different language, but I still hear you call
+
+[Chorus: Zayn]
+Diana, let me be the one to
+Light a fire inside those eyes
+You've been lonely, you don't even know me
+But I can feel you crying
+Diana, let me be the one to
+Lift your heart up and save your life
+I don't think you even realise
+Baby, you'd be saving mine
+
+[Bridge: Harry]
+We all need something
+This can't be over now
+If I could hold you
+I swear I'd never put you down
+
+[Chorus: Zayn & Harry]
+Diana, let me be the one to
+Light a fire inside those eyes
+You've been lonely, you don't even know me
+But I can feel you crying
+Diana, let me be the one to
+Lift your heart up and save your life
+I don't think you even realise
+Baby, you'd be saving mine
+Diana, Diana
+Baby you'd be saving mine
+Diana, Diana
+Baby you'd be saving mine
+
+
+--------------------------------------------------
+
+['Panic! At The Disco', 'The Ballad Of Mona Lisa']
+First appearance on Billboard Hot 100: 2011-02-19
+Link attempted: https://genius.com/panic-at-the-disco-the-ballad-of-mona-lisa-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+She paints her fingers with a close precision
+He starts to notice empty bottles of gin
+And takes a moment to assess the sin she's paid for
+A lonely speaker in a conversation
+Her words are swimming through his ears again
+There's nothing wrong with just a taste of what you paid for
+
+[Pre-Chorus]
+Say what you mean, tell me I'm right
+And let the sun rain down on me
+Give me a sign, I want to believe
+
+[Chorus]
+Whoa, Mona Lisa
+You're guaranteed to run this town
+Whoa, Mona Lisa
+I'd pay to see you frown
+
+[Verse 2]
+He senses something, call it desperation
+Another dollar, another day
+And if she had the proper words to say, she would tell him
+But she'd have nothing left to sell him
+
+[Pre-Chorus]
+Say what you mean, tell me I'm right
+And let the sun rain down on me
+Give me a sign, I want to believe
+
+[Chorus]
+Whoa, Mona Lisa
+You're guaranteed to run this town
+Whoa, Mona Lisa
+I'd pay to see you frown
+
+[Bridge]
+Mona Lisa, wear me out
+I'm pleased to please ya
+Mona Lisa, wear me out
+
+[Pre-Chorus]
+Say what you mean, tell me I'm right
+And let the sun rain down on me
+Give me a sign, I want to believe
+
+[Chorus]
+Whoa, Mona Lisa
+You're guaranteed to run this town
+Whoa, Mona Lisa
+I'd pay to see you frown
+
+[Pre-Chorus]
+Say what you mean, tell me I'm right
+And let the sun rain down on me
+Give me a sign, I want to believe
+
+[Outro]
+There's nothing wrong with just a taste
+Of what you paid for
+
+
+--------------------------------------------------
+
+['Panic! At The Disco Featuring Lolo', 'Miss Jackson']
+First appearance on Billboard Hot 100: 2013-08-03
+Link attempted: https://genius.com/panic-at-the-disco-miss-jackson-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro: LOLO]
+Climbing out the back door, didn't leave a mark
+No one knows it's you, Miss Jackson
+Found another victim
+But no one's going to find Miss Jackson
+
+[Verse 1: Brendon Urie]
+You put a sour little flavor in my mouth now
+You move in circles hoping no one's gonna find out
+But we're so lucky
+Kiss the ring and let them bow down
+Looking for the time of your life
+A pretty picture but the scenery is so loud
+A face like heaven, catching lightning in your nightgown
+But back away from the water, babe, you might drown
+The party isn't over tonight
+
+[Pre-Chorus: Brendon Urie]
+Hey, where will you be waking up tomorrow morning?
+Hey, out the back door, goddamn
+But I love her anyway
+I love her anyway, I love her anyway
+Out the back door, goddamn
+But I love her anyway
+
+[Chorus: Brendon Urie]
+Miss Jackson, Miss Jackson, Miss Jackson, are you nasty?
+Miss Jackson, Miss Jackson, Miss Jackson, are you nasty?
+Miss Jackson, Miss Jackson, Miss Jackson, are you nasty? Are you nasty?
+I love her anyway
+Oh, where will you be waking up tomorrow morning?
+Oh, out the back door, goddamn
+But I love her anyway
+
+[Verse 2: Brendon Urie]
+Way down until the fire finally dies out
+You've got them wrapped around your finger
+Watch them fall down
+There's something beautiful and tragic in the fall out
+Let me say it one more time (tragic in the fall out)
+
+[Pre-Chorus: Brendon Urie]
+Hey, where will you be waking up tomorrow morning?
+Hey, out the back door, goddamn
+But I love her anyway
+I love her anyway, I love her anyway
+Out the back door, goddamn
+But I love her anyway
+
+[Chorus: Brendon Urie]
+Miss Jackson, Miss Jackson, Miss Jackson, are you nasty?
+Miss Jackson, Miss Jackson, Miss Jackson, are you nasty?
+Miss Jackson, Miss Jackson, Miss Jackson, are you nasty? Are you nasty?
+I love her anyway
+Oh, where will you be waking up tomorrow morning?
+Oh, out the back door, goddamn
+But I love her any--
+
+[Intro/Bridge: LOLO (Brendon Urie)]
+Climbing out the back door, didn't leave a mark
+No one knows it's you, Miss Jackson
+Found another victim
+But no one's going to find Miss Jackson
+(I love her anyway)
+
+[Chorus: Brendon Urie]
+Miss Jackson, Miss Jackson, Miss Jackson, are you nasty?
+Miss Jackson, Miss Jackson, Miss Jackson, are you nasty?
+Miss Jackson, Miss Jackson, Miss Jackson, are you nasty? Are you nasty?
+I love her anyway
+Oh, where will you be waking up tomorrow morning?
+Oh, out the back door, goddamn
+But I love her anyway
+
+
+--------------------------------------------------
+
+['Pentatonix', 'Mary, Did You Know?']
+First appearance on Billboard Hot 100: 2014-12-06
+Link attempted: https://genius.com/pentatonix-mary-did-you-know-lyrics
+Link response: <Response [200]>
+
+
+
+[Scott]
+Mary did you know that your baby boy will one day walk on water?
+[Avi]
+Mary did you know that your baby boy will save our sons and daughters?
+[Scott and Avi]
+Did you know that your baby boy has come to make you new?
+[Avi]
+This child that you've delivered, will soon deliver you
+
+[Kirstin]
+Mary did you know that your baby boy will give sight to a blind man?
+[Mitch]
+Mary did you know that your baby boy will calm a storm with his hand?
+[Mitch, Kirstin and Scott]
+Did you know that your baby boy has walked where angels trod?
+[Mitch]
+And when you kiss your little baby, you have kissed the face of God
+
+[All]
+Mary did you know, Mary did you know, Mary did you know
+
+[Scott]
+The blind will see, the deaf will hear and the dead will live again
+The lame will leap, the dumb will speak, the praises of the lamb
+
+[Kevin]
+Mary did you know that your baby boy is Lord of all creation?
+Mary did you know that your baby boy will one day rule the nations?
+[All]
+Did you know that your baby boy is heaven's perfect Lamb?
+[Mitch]
+This sleeping child you're holding is the great I am
+[All]
+Mary did you know, Mary did you know, Mary did you know?
+
+
+--------------------------------------------------
+
+['Post Malone', 'White Iverson']
+First appearance on Billboard Hot 100: 2015-09-26
+Link attempted: https://genius.com/post-malone-white-iverson-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Double OT
+I'm a new three
+
+[Chorus]
+Saucin', saucin', I'm saucin' on you
+I'm swaggin', I'm swaggin', I'm swaggin', oh-ooh
+I'm ballin', I'm ballin', Iverson on you
+Watch out, watch out, watch out, yeah
+That's my shot, that's my shot, that's my shot, yeah
+Spendin', I'm spendin' all my fuckin' pay
+
+[Verse 1]
+I got me some braids and I got me some hoes
+Started rockin' the sleeve, I can't ball with no Joes
+You know how I do it, Concords on my toes
+(This shit is hard)
+I ain't rich yet, but you know I ain't broke, I
+So if I see it, I like it, buy that from the store, I
+I'm with some white girls and they lovin' the coca
+Like they OT
+Double OT like I'm KD, smokin' OG
+And you know me, in my 2-3s and my gold teeth
+Bitch, I'm smiling, bet you see me from the nosebleeds
+I'm a new three and I change out to my new 3s
+
+[Pre-Chorus]
+White Iverson
+When I started ballin', I was young
+You gon' think about me when I'm gone
+I need that money like the ring I never won, I won
+
+[Chorus]
+Saucin', saucin', I'm saucin' on you
+I'm swaggin', I'm swaggin', I'm swaggin', oh-ooh
+I'm ballin', I'm ballin', Iverson on you
+Watch out, watch out, watch out, yeah
+That's my shot, that's my shot, that's my shot, yeah
+Spendin', I'm spendin' all my fuckin' pay
+
+Ooh, Stoney
+
+[Verse 2]
+Cigarettes and a headband
+Commas, commas in my head, man
+Slumped over like a dead man
+Red and black, 'bout my bread, man
+I'm the answer, never question
+Lace up, learn a lesson
+Bitch, I'm saucin', I do this often, don't do no talkin'
+My options right when I walk in, jump all them Jordans
+I'm ballin', money jumpin'
+Like I'm Davis from New Orleans
+Or bitch I'm Harden, I don't miss nothin'
+Fuck practice, this shit just happens, know y'all can't stand it
+I have it, I never pass it, I work my magic
+High average, ball on these bastards, it makes me happy
+It's tragic, I make it happen, and all y'all Shaqtin'
+
+[Pre-Chorus]
+White Iverson
+When I started ballin' I was young
+You gon' think about me when I'm gone
+I need that money like the ring I never won, I won
+
+[Chorus]
+Saucin', saucin', I'm saucin' on you
+I'm swaggin', I'm swaggin', I'm swaggin', oh-ooh
+I'm ballin', I'm ballin', Iverson on you
+Watch out, watch out, watch out, yeah
+That's my shot, that's my shot, that's my shot, yeah
+Spendin', I'm spendin' all my fuckin' pay
+
+
+--------------------------------------------------
+
+['Red Hot Chili Peppers', 'The Adventures Of Rain Dance Maggie']
+First appearance on Billboard Hot 100: 2011-08-06
+Link attempted: https://genius.com/red-hot-chili-peppers-the-adventures-of-rain-dance-maggie-lyrics
+Link response: <Response [200]>
+
+
+
+Lipstick junkie be funky all he wanty
+She came back wearing a smile
+Look-alike someone drug me
+They wanted to unplug me
+No one in here is on trial
+Its just a turn-around
+
+And we go
+Oh
+Well and we go
+Oh oh oh oh
+
+Tic-toc, I want to rock you like the 80s
+Cock-blocking isn’t allowed
+Tugboat Shiela is into memorabilia
+Who said three is a crowd?
+We better get it on the go
+
+[Chorus]
+Hey, now
+We’ve gotta make it rain somehow
+She told me to
+And show me what to do
+
+Oh Maggie makes it in her cloud
+
+[Chorus]
+Hey, now
+We’ve gotta make it rain somehow
+She told me to
+And show me what to do
+
+Oh Maggie makes it in her cloud
+
+She knows how, to make it loud
+
+Rain dance Maggie advances to the final
+Who knew that she had the goods?
+Little did I know her body was one delicious vinyl
+To your neck of the woods
+I want to lick a little bit
+
+[Chorus]
+Hey, now
+We’ve gotta make it rain somehow
+She told me to
+And show me what to do
+
+Oh Maggie makes it in her cloud
+
+You got the wrong girl
+But not for long girl
+Its in a song girl
+Cos I’ll be gone girl
+
+[Chorus]
+Hey, now
+We’ve gotta make it rain somehow
+She told me to
+And show me what to do
+
+Oh Maggie makes it in her cloud
+
+I said
+Hey now
+I want to rock this Valley crowd
+She told me to
+And told me what to do
+She knows how to make it loud
+
+But not for long girl
+Its in a song girl
+Cos I’ll be gone bye bye yeah
+Bye bye girl
+Bye bye
+Girl
+Bye bye
+Girl
+Bye bye
+
+
+--------------------------------------------------
+
+['Rob $tone Featuring J. Davi$ & Spooks', 'Chill Bill']
+First appearance on Billboard Hot 100: 2016-08-20
+Link attempted: https://genius.com/rob-tone-chill-bill-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1: Rob $tone]
+Rob $tone, two damn phones
+Babylons can't crack the code (no)
+Used to sip out styrofoam
+But figured I should stick to dro (trees!)
+Backwoods overload
+Don't like to smoke them swishers, ho
+If you hit my liquor store
+It's 50 cents for single Ports
+
+[Hook: Rob $tone]
+Said she wanna roll with me and smoke up all my weed
+I said, "Baby just buy Dutches 'cause you can't smoke for free
+I got some loud but no money, babe, buy me a Fiji"
+She said, "You need a job", bitch, fuck a job, I still get cheese
+
+[Verse 2: J. Davi$]
+Two cell phones, Mr. Mothafuck-A-Thot
+Mr. I-Be-On-That-Block, 12-07 fuck an op
+They hear my name, they see my squad
+Rolling dope up on the spot
+I'm with your bitch, she on my jock
+Ain't got no time to love a thot
+Got niggas mad, my flow so hot
+Got niggas mad, my squad won't stop
+We in the game, won't take no loss
+I'm sippin' water out the Voss
+Got lean all in my fuckin' Sprite
+Turnin' up on fuckin' sight
+Mr. Kenny Powers
+Bout to take your girlfriend home tonight, bitch
+
+[Verse 3: Spooks]
+And I'm smokin' on that widow when you see it out the window
+Got a dusty old tee, lookin' bummy, leave it simple
+Growin' up, I was always in the middle
+So I gotta hold it down for my older and my little
+And my brothas beside me so fuck it we mobbin' deep
+Always grimey, no findin' me but I be in LG
+If your lil' fuckboy lame ass wanna creep
+I live by the lemon 'cause that fucka chose me
+
+[Hook: Rob $tone]
+Said she wanna roll with me and smoke up all my weed
+I said, "Baby just buy Dutches 'cause you can't smoke for free
+I got some loud but no money, babe, buy me a Fiji"
+She said, "You need a job", bitch, fuck a job, I still get cheese
+
+
+--------------------------------------------------
+
+['Sawyer Fredericks', 'Iris']
+First appearance on Billboard Hot 100: 2015-05-09
+Link attempted: https://genius.com/sawyer-fredericks-iris-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/sawyer-fredericks-iris-lyrics
+--------------------------------------------------
+
+['Shiny Toy Guns', 'Major Tom']
+First appearance on Billboard Hot 100: 2010-02-20
+Link attempted: https://genius.com/shiny-toy-guns-major-tom-lyrics
+Link response: <Response [200]>
+
+
+
+Standing there alone
+The ship is waiting
+All systems are go
+Are you sure?
+Control is not convinced
+But the computer
+Has the evidence
+"No need to abort"
+The countdown starts
+
+Watching in a trance
+The crew is certain
+Nothing left to chance
+All is working
+Trying to relax
+Up in the capsule
+"Send me up a drink"
+Jokes Major Tom
+The count goes on
+
+4 3 2 1
+Earth below us
+Drifting, falling
+Floating, weightless
+Calling, calling home...
+
+Second stage is cut
+We're now in orbit
+Stabilizers up
+Running perfect
+Starting to collect
+Requested data
+"What will it effect
+When all is done?"
+Thinks Major Tom
+
+Back at ground control
+There is a problem
+Go to rockets full
+Not responding
+"Hello, Major Tom
+Are you receiving?
+Turn the thrusters on
+We're standing by"
+There's no reply
+
+4 3 2 1
+Earth below us
+Drifting, falling
+Floating, weightless
+Calling, calling home...
+
+Across the stratosphere
+A final message
+"Give my wife my love"
+Then nothing more
+
+Far beneath the ship
+The world is mourning
+They don't realize
+He's alive
+No one understands
+But Major Tom sees
+Now the life commands
+This is my home
+I'm coming home
+
+Earth below us
+Drifting, falling
+Floating, weightless
+Calling home...
+Earth below us
+Drifting, falling
+Floating, weightless
+Calling home...
+Earth below us
+Drifting, falling
+Floating, weightless
+Calling, calling home...
+Home.....
+
+
+--------------------------------------------------
+
+['Taylor Swift', 'Ronan']
+First appearance on Billboard Hot 100: 2012-09-22
+Link attempted: https://genius.com/taylor-swift-ronan-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+I remember your bare feet, down the hallway
+I remember your little laugh
+Race cars on the kitchen floor, plastic dinosaurs
+I love you to the moon and back
+
+I remember your blue eyes looking into mine
+Like we had our own secret club
+I remember you dancing before bed time
+Then jumping on me waking me up
+
+I can still feel you hold my hand, little man
+And even the moment I knew
+You fought it hard like an army guy
+Remember I leaned in and whispered to you
+
+[Chorus]
+Come on baby with me we're going to fly away from here
+You were my best four years
+
+[Verse 2]
+I remember the drive home
+When the blind hope turned to crying and screaming "Why?"
+Flowers pile up in the worst way, no one knows what to say
+About a beautiful boy who died
+
+And it's about to be Halloween
+You could be anything you wanted, if you were still here
+I remember the last day, when I kissed your face
+I whispered in your ear
+
+[Chorus]
+Come on baby with me we're going to fly away from here
+Out of this curtain room and this hospital grey, we'll just disappear
+Come on baby with me we're going to fly away from here
+You were my best four years
+
+[Bridge]
+What if I'm standing in your closet trying to talk to you?
+What if I kept the hand-me-downs you won't grow into?
+And what if I really thought some miracle would see us through?
+What if the miracle was even getting one moment with you?
+
+[Chorus]
+Come on baby with me we're going to fly away from here
+Come on baby with me we're going to fly away from here
+You were my best four years
+
+[Outro]
+I remember your bare feet, down the hallway
+I love you to the moon and back
+
+
+--------------------------------------------------
+
+['Taylor Swift', 'Dear John']
+First appearance on Billboard Hot 100: 2010-11-13
+Link attempted: https://genius.com/taylor-swift-dear-john-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+Long were the nights when
+My days once revolved around you
+Counting my footsteps
+Praying the floor won't fall through... again
+My mother accused me of losing my mind
+But I swore I was fine
+You paint me a blue sky
+Then go back and turn it to rain
+And I lived in your chess game
+But you changed the rules everyday
+Wonderin' which version of you I might get on the phone, tonight
+Well I stopped pickin' up and this song is to let you know why
+
+[Chorus]
+Dear John, I see it all now that you're gone
+Don't you think I was too young to be messed with
+The girl in the dress cried the whole way home
+I shoulda' known
+
+[Verse 2]
+Well maybe it's me
+And my blind optimism to blame
+Or maybe it's you and your sick need
+To give love and take it away
+And you'll add my name to your long list of traitors
+Who don't understand
+And I look back in regret how I ignored when they said
+"Run as fast as you can"
+
+[Chorus]
+Dear John, I see it all now that you're gone
+Don't you think I was too young to be messed with
+The girl in the dress cried the whole way home
+Dear John, I see it all now it was wrong
+Don't you think nineteen's too young
+To be played by your dark, twisted games
+When I loved you so?
+I shoulda' known
+
+[Bridge]
+You are an expert at sorry
+And keeping the lines blurry
+Never impressed by me acing your tests
+All the girls that you've run dry have tired lifeless eyes
+'Cause you burned them out
+But I took your matches
+Before fire could catch me
+So don't look now
+I'm shining like fireworks
+Over your sad empty town, yeah
+Oh, oh, oh, oh, oh, oh
+
+[Chorus]
+Dear John, I see it all now that you're gone
+Don't you think I was too young to be messed with
+The girl in the dress cried the whole way home
+
+[Outro]
+I see it all now that you're gone
+Don't you think I was too young to be messed with
+The girl in the dress
+Wrote you a song, you shoulda' known
+You shoulda' known
+Don't you think I was too young
+You shoulda' known
+
+
+--------------------------------------------------
+
+['The Barden Bellas, The Treblemakers & The BU Harmonics', 'Riff Off: Mickey / Like A Virgin / Hit Me With Your Best Shot...']
+First appearance on Billboard Hot 100: 2013-01-19
+Link attempted: https://genius.com/the-barden-bellas-the-treblemakers-and-the-bu-harmonics-riff-off-mickey-/-like-a-virgin-/-hit-me-with-your-best-shot-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/the-barden-bellas-the-treblemakers-and-the-bu-harmonics-riff-off-mickey-/-like-a-virgin-/-hit-me-with-your-best-shot-lyrics
+--------------------------------------------------
+
+['The Lonely Island Featuring Michael Bolton', 'Jack Sparrow']
+First appearance on Billboard Hot 100: 2011-05-28
+Link attempted: https://genius.com/the-lonely-island-jack-sparrow-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Secretary: Guys Michael Bolton is here
+Andy: Oh great, send him in
+Michael: Hey guys
+All: Hey... thanks for coming
+Andy: How's it goin'?
+Michael: I'm really sorry I'm late I just got caught up watching the Pirates of the Caribbean marathon. Have you seen those things?
+All: Oh yeah, those are great
+Michael: Well I listened to your track and I loved it. And I wrote you this big, sexy hook I think you're gonna really dig
+Andy: Oh wow, that's great. You wanna just lay it down?
+Michael: Boys, lets get to it (to it to it to it)
+
+[Bridge: Andy Samberg (Michael Bolton)]
+Here we go
+Uh, Lonely Island, Michael Bolton (Yeah)
+The night starts now
+Together on the track
+The boys are back
+The night starts now
+
+[Verse 1: Andy Samberg]
+The night starts now, baby, roll with us
+Chickies snapping at the neck when we rolling up (Michael: Rolling up)
+Club front doors ain't no holding up
+Black card at the bar like I gives a fuck (Michael: Come on!)
+
+[Jorm Taccone]
+Ladies shifty eyed when we walk into the set
+Fuck the fellas looking jealous
+Play that back and get wet (Michael: YEAH YEAH)
+Gun at my waist shank in my sock
+You either get cut, get stuffed, or get shot
+
+[Hook - Michael Bolton]
+This is the tale of Captain Jack Sparrow
+Pirate so brave on the seven seas (Andy: What?)
+A mystical quest to the isle of Tortuga
+Raven locks sway on the ocean breeze
+
+[Verse 2: Kiv Schaffer]
+Yeah that was kind of weird but we're back in the club
+Buying up the bar so the groupies show us love (Michael: Keira Knightley!)
+Mothafucking ice man
+I'm the top gunna
+Heater on blast
+I'm the number one stunna (Michael: Jack Sparrow!)
+
+[Andy Samberg]
+Watch your girl because I ain't your mister nice guy
+More like the meet ya take you home and fuck you twice guy (Michael: Yeah yeah!)
+All dressed up with nowhere to run
+I know I make you feel crazy when I--(Michael: Now back to the good part)
+
+[Hook]
+From the day he was born
+He yearned for adventure (Andy: NO!)
+Oh Captain Jack (Jorma: Yeah)
+Giving them what-for!
+He's the pauper of the surf
+The jester of Tortuga
+But in Davy Jones locker
+What lies in store? (Akiva: Yeah, we've seen the movie)
+
+[Verse 3: Ande Samberg]
+Put your hands in the air
+And say hell yeah, come on
+(Michael: Captain Jack) What?
+(Michael: Johnny Depp) No
+
+[Jorm Taccone]
+From the front to the back
+Say we count stacks come on
+(Michael: Davy Jones) Nope
+(Michael: Giant squid) Wrong
+
+[Kiv Schaffer]
+Michael Bolton, we're really gonna need you to focus up
+Roger that let me try it with another film (Andy: Wait)
+
+[Hook]
+Life is a box of chocolates and my name is Forrest Gump (Andy: Not better)
+Though I'm not the sharpest tool in the shed
+I give Jenny all my love (Akiva: Come ON)
+Okay, then I'm a legal aide
+Erin Brockovich is my name (Akiva: Oh God)
+Then you can call me Scarface
+Snortin' mountains of cocaine (Andy: Close Enough)
+You cockroaches wanna play rough?
+Okay, I'm reloaded! HA HA!
+This is the tale of Tony Montana
+This is the tale!
+Cubano flame
+With Miami nuts
+Got a basehead wife
+Her womb is polluted
+This whole town's a pussy
+Just waiting to get fucked
+
+[Outro]
+Andy: Okay it turns out Michael Bolton is a major cinephile
+Michael: You complete me
+Andy: Yeah, yeah okay
+
+
+--------------------------------------------------
+
+['The Lumineers', 'Ophelia']
+First appearance on Billboard Hot 100: 2016-02-27
+Link attempted: https://genius.com/the-lumineers-ophelia-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+Ah, ah, when I was younger
+I, I should've known better
+And I can't feel no remorse
+And you don't feel nothing back
+(Ah, ah!) got a new girlfriend
+He feels like he's on top
+And I don't feel no remorse
+And you can't see past my blindness
+
+[Chorus]
+Oh, Ophelia
+You've been on my mind, girl, since the flood
+Oh, Ophelia
+Heaven help the fool who falls in love
+
+[Verse 2]
+I, I got a little paycheck
+You got big plans and you gotta move (whoo!)
+And I don't feel nothing at all
+And you can't feel nothing small
+
+[Pre-Chorus]
+Honey, I love you
+That's all she wrote
+
+[Chorus]
+Oh, Ophelia
+You've been on my mind, girl, like a drug
+Oh, Ophelia
+Heaven help the fool who falls in love
+Oh, Ophelia
+You've been on my mind, girl, since the flood
+Oh, Ophelia
+Heaven help the fool who falls in love
+Oh, Ophelia
+You've been on my mind, girl, like a drug
+Oh, Ophelia
+Heaven help the fool who falls in love
+
+
+--------------------------------------------------
+
+['The Swon Brothers', "Danny's Song"]
+First appearance on Billboard Hot 100: 2013-06-29
+Link attempted: https://genius.com/the-swon-brothers-dannys-song-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/the-swon-brothers-dannys-song-lyrics
+--------------------------------------------------
+
+['The Weeknd', 'Earned It (Fifty Shades Of Grey)']
+First appearance on Billboard Hot 100: 2015-01-10
+Link attempted: https://genius.com/the-weeknd-earned-it-fifty-shades-of-grey-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/the-weeknd-earned-it-fifty-shades-of-grey-lyrics
+--------------------------------------------------
+
+['Troop 41', 'Do The John Wall']
+First appearance on Billboard Hot 100: 2011-01-08
+Link attempted: https://genius.com/troop-41-do-the-john-wall-lyrics
+Link response: <Response [200]>
+
+
+
+(Raleigh! What it is? What up John?)
+
+[Hook]
+Raleigh be the city where we like to do the dance
+Flex to the left throw some money out ya hands
+We do it for the city, and
+We do it for the fans
+But to ball like Wall
+Boy you gotta do the dance
+
+Everybody do the John Wall, John Wall
+John Wall, John Wall, John Wall, John Wall
+John Wall, John Wall
+
+[Verse 1: Breeze]
+Everybody clear out, hand me the rock
+Time winding down 3 seconds on the shot clock
+Break the defense homeboy, I can't be stopped
+All about my money so you know I'm hitting bank shots
+I'm trying to tell them, boy you can't guard this
+Beast on the court homeboy I play the hardest
+Jump shot stupid; yeah it's retarded
+You can't guard me in the paint I'm an artist
+See I hustle on the floor call me Rick Ross
+See the Troop get it jumping like a tip-off
+I play hard until I hear the ref blow the whistle
+I'm a player but my game be so official
+Never reach got to stay out of foul trouble
+But I drive in the lane, get them in foul trouble
+They can't solve my game; I'm a hard puzzle
+But I keep three dimes - that's a triple double
+
+[Hook:]
+
+[Verse 2: Lil Inferno]
+Sick with it
+Hustle for the rock I go-go get it
+I'm in it to win it, 919 baby we represent it
+And I don't ball hog we got our whole team in it
+See you just dribble but ain't ever got the heart to finish
+Can't put me out the game I'm in that thing from start to finish
+And if I can't drive the lane then best believe I'm about to dish it
+Sideline drifting now, I'm gliding down the baseline
+About to do a big slam catch me on them inches
+Coming from the south side
+The expectations of us is that we will not rise
+And still we prove them wrong, we flexing cause we hot guys
+Bring life to the game we will not die
+Ha, yeah
+Stand tall, yeah you call that the great Wall
+All I do is ball I get up I can take a fall
+I'm hungry for the top, call it lunchtime
+Game winning shot, yeah it's clutch time
+
+[Hook:]
+
+[Verse 3: Lil Lee]
+(Let's do it)
+Oh yeah we balling, balling until we falling
+Until the last second I'm guessing we gone be brawling
+Cause Kentucky here to win, not to watch you play
+Whole world do the dance, say what up UK
+Better take him out the game, cause they say that boy insane
+When he coming down the lane, trying to catch a bang bang
+First we flex, show the muscle then jigg on them
+For the small play, let DeMarcus Cousins get big on them
+You ain't handling nothing I'm about to catch a steal on them
+Pass it to the point, crossover and I'm still on them
+Crowd going bananas so you know that's why we peel on them
+And we from the "R", ain't nothing like being real on them
+Jump shot deadly, you know that we kill on them
+Time to grab the money ball, about to shoot a bill on them
+Yeah, North Cal. we gonna show them how to do it
+Do the John Wall it ain't really nothing to it
+
+[Hook:]
+
+
+--------------------------------------------------
+
+['Tyga Featuring Cedric Gervais, Wiz Khalifa & Mally Mall', 'Molly']
+First appearance on Billboard Hot 100: 2013-04-06
+Link attempted: https://genius.com/tyga-molly-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+Hi, I'm looking for Molly
+I've been searching everywhere
+
+[Hook: Siri]
+And I can't seem to find
+Molly, Molly, Molly, Molly, Molly, Molly, Molly, Molly
+Molly, Molly, Molly, Molly, Molly, Molly, Molly, Molly
+(Fucked around and fell in love with her)
+
+[Verse 1: Tyga]
+Bands all in my dollars
+I'm everywhere it's poppin'
+Can't fall in love I got options
+I'm high school that's college
+King Gold Chains, that's Notre Dame
+That green, yeah I got it
+I show up in the party
+Like where the fuck that molly
+O-D we're O-G's
+We don't fuck with no police
+I'm too fly to be low key
+Them 24 inch Kobes
+All black that's Jodeci
+She gimme pussy that's Josie
+Broke niggas stop beggin' me
+Cause that's the shit that I don't need
+I'm swervin', I'm drivin'
+Ain't got time to be tired
+I'm super turnt, don't try me
+Killin' yo mind off and fuckin' yo body
+Bitch wanna flick, pose for my posse
+Got too much shit to worry about gossip
+I'm on a bad trip
+
+[Hook]
+
+[Verse 2: Wiz Khalifa]
+Lil' bitch, my section is important
+My new car's imported
+My bank account is enormous
+Weed so loud it's distorted
+Got champagne and we pourin' it
+She poppin' it and she snortin' it
+My iPhone recordin' it, if I want it, I can afford it
+Bitch I'm Young Khalifa, fillin' my lungs with reefer
+Somewhere in the clouds, gotta press up to see us
+I gotta whip so fast that I caught a ticket speedin'
+And my bitch so bad that I'm never ever cheatin'
+I might pull up in some shit that you've never ever seen
+And if I said how much I made, then you won't even believe it
+Me and T-Y gettin' gnarly when we pull up to the party
+Brought a whole pound of Mary
+
+[Hook]
+
+[Verse 3: Mally Mall]
+Put it in my drink, put it in my drink
+Put it in my drink, you already know
+Put it in my drink, put it in my drink
+Put it in my drink, you already know
+She had me smokin', had me smokin'
+Smokin' on my reefer
+She had me smokin', had me smokin'
+Smokin' on my reefer
+
+[Hook]
+
+
+--------------------------------------------------
+
+['Vicci Martinez', 'Jolene']
+First appearance on Billboard Hot 100: 2011-07-02
+Link attempted: https://genius.com/vicci-martinez-jolene-lyrics
+Link response: <Response [404]>
+
+LINK DOES NOT WORK (404): https://genius.com/vicci-martinez-jolene-lyrics
+--------------------------------------------------
+
+['Young Money', 'Roger That']
+First appearance on Billboard Hot 100: 2010-04-10
+Link attempted: https://genius.com/young-money-roger-that-lyrics
+Link response: <Response [200]>
+
+
+
+[Nicki Minaj]
+I'm in the collard green 6, cornbread in the guts
+Got the Halloween kicks, trick-or-treating the clutch
+C'mon nigga, is you tricking or what?
+Flow, flow tighter than a dick in the butt
+Just hopped off the plane, came back from Vancouv'
+Little white tee, some boobs, and bamboo
+White girls tell me "Hey Nicki, your camp rules
+Is that why you get more head than shampoos?"
+As-Salamlu alaykum, no oink for me
+And I never let a d-boy boink for free
+'Cause it's Barbie bitch, you can join the wave
+I've done penny nickel dimed, I done coined the phrase, ha!
+You couldn't beat me there if you had a Lear
+Indian-style, courtside with a cavalier
+V.I.P. rosé; you can have a beer
+'Cause honey when you getting money you don't have a care
+
+[Hook - Nicki Minaj]
+Now r-roger that, r-r-roger that
+R-roger that, r-r-r-roger that
+R-roger that, r-r-roger that
+R-R-R-R-R, ROGER
+
+[Tyga]
+Young black Ricos, kill for the C-notes
+But me though, I Jackson bitch uhh, Tito
+She wanna play games but, this is not bingo
+Monopoly, I'm past go, go on ahead and deep-throat
+Four chick foursomes, skin color's mocha
+Sally and Sonia -- put the pussies on my totem
+Pole, what stroke 'em uhh, strike ya like bowling
+Now open like you yawning, it's 6 in the morning
+Sleeping on me, probably in a coffin
+I'm hotter than the end of fucking August, I'm awesome
+I'm awesome: repeat it to ya grandma, and uncles
+Or mothers, Tyga's no dad but I'm the motherfucker
+Motherfuckers, this the last supper
+Look, no hands, I'mma bread cuffer
+I don't dare love her, I'mma dare devil
+I don't fear nothing motherfucker, Young Money!
+
+[Hook - Tyga]
+Now roger that, Roger that
+Ro-Roger that, Roger that
+Fuck around and never get Roger back
+Ha ha ha
+
+[Lil Wayne]
+I'm goin' in!
+Fresh off the jet, sharper than Gillette
+The blunt still wet, so pass it like Brett
+We sip side of mug, we call it upset
+Smoke more than four quarters, we call it sudden death
+I'm a beast. You a pet
+AK long neck. Keith Sweat, haha!
+Weezy motherfucker, Capo in this bitch with me
+Money talks and have a convo in this bitch with me
+I'm mountain high Colorado in this bitch with me
+Flow crazy 7:30, you just 6:50
+Twenty bullets from the chopper take the roof off
+Laughing to the bank, I'm a goofball
+Hahaha! It's YM
+And we at your neck, like a violin
+It's our world, we make it spin
+And y'all the prey... amen!
+
+[Hook - Lil Wayne]
+Now roger that, Roger that
+Where Roger at? I heard Rog' a rat
+Fuc-fuck around and never get Roger back!!
+HAHAHAHA
+
+
+--------------------------------------------------
+
+['Young Thug', 'Wyclef Jean']
+First appearance on Billboard Hot 100: 2016-09-17
+Link attempted: https://genius.com/young-thug-wyclef-jean-lyrics
+Link response: <Response [200]>
+
+
+
+[Intro]
+(Supah Mario)
+Thugger
+TM
+This Actavis by the way I promise, on God
+
+[Hook]
+Okay, my money way longer than a Nascar race
+I told her keep going on the gas, fuck the brakes
+Only here for one night, let me put it on your face
+Let a nigga nut, only way I'll go to sleep
+Boolin, rockin' all the Franck Muller
+I know some hoes with good head, fuck a tutor
+So many hundreds how the hell I'm going to lose 'em
+Put me in the Jaggy or the Wraith and now I'm coolin'
+Play with my money, I'ma let them niggas do you
+Play with my money I'ma let them niggas do you
+Play with my money I'ma let these niggas do you
+Play with my money
+Play with my, play with my money
+
+[Bridge]
+I do lie, yeah, I do
+I do lie, yeah, I do
+I do lie, yeah, I do
+I do lie, yeah, I do
+
+[Verse 1]
+Play around with my cash
+End up in a body bag
+End of story, dig that
+Pull up, hoppin' out a cab
+She know she got a nigga bad
+She know she got a cute back
+She know I gotta keep me some cash
+She know she gotta hop on top the dick
+She know you gotta ride that motherfucker
+Her mama done walked in, but it's too big
+She can't hide that motherfucker
+Even if she divided the motherfucker
+Man even if she minused the motherfucker
+Join in get demolished motherfucker
+I ain't gon' disguise it motherfucker, nah
+Shop at Saks Fifth, flow on DatPiff
+Yeah I'm that swift, ask her and him
+Yeah ask 'em, put a bone in them
+Put a choker on 'em, let 'em choke and all
+All my children spoiled yeah, they got it all
+Daughter sexy and my son got the broads
+Spent racks on my son and his squad
+Daddy boy, never play with toys
+Better not play with 'em boys
+New AK with them boys
+New feng shui with the boys
+Drippin' all day for the boys
+Bitch you ain't ready for the boys
+I'm in that Wraith homeboy
+If you ever play with the boy
+I'ma turn the blade on 'em boys
+
+[Bridge]
+I do lie, yeah, I do
+I do lie, yeah, I do
+I do lie, yeah, I do
+I do lie, yeah, I do
+
+[Hook]
+Okay, my money way longer than a Nascar race (slatt)
+I told her keep going on the gas fuck the brakes
+Only here for one night, let me put it on your face (slatt)
+Let a nigga nut, only way I'll go to sleep (slatt)
+Boolin, rockin' all the Frank Muller (slatt slatt)
+I know some hoes with good head, fuck a tutor (slatt slatt)
+So many hundreds I done added, I'm going to lose 'em
+Put me in the Jaggy or the Wraith and now I'm coolin'
+
+[Verse 2]
+Nigga watch that dog, watch
+Nigga plottin' on the boy, spot 'em
+Put the target on they head, dot 'em dot 'em dot 'em
+And I'm good, got a rabbit's foot in my wallet
+Tell 'em pick it up, then drop it, drop it
+Do some sit ups, then show your body
+Got her bent up, I done took a gram of molly
+Her car dented up like she rent to everybody
+
+[Bridge]
+I do lie, yeah, I do
+I do lie, yeah, I do
+I do lie, yeah, I do
+I do lie, yeah, I do
+
+[Hook]
+Money way longer than a Nascar race
+I told her keep going on the gas fuck the brakes
+Only here for one night, let me put it on your face
+Let a nigga nut, only way I'll go to sleep
+Boolin, rockin' all the Frank Muller
+I know some hoes with good head, fuck a tutor
+So many hundreds how the hell I'm going to lose 'em
+Put me in the Jaggy or the Wraith and now I'm coolin'
+
+
+--------------------------------------------------
+
+['Zac Brown Band', 'Sweet Annie']
+First appearance on Billboard Hot 100: 2013-11-02
+Link attempted: https://genius.com/zac-brown-band-sweet-annie-lyrics
+Link response: <Response [200]>
+
+
+
+[Verse 1]
+I've been burning bright
+For so long I can't remember
+Pretty girls and late night bars seem to be my line of work
+Believe me when I say, I can't stay this high forever
+This man has had all he can stand, time to lay this body down
+
+[Chorus 1]
+Sweet Annie
+Can I stay with you a while
+Cause this road's been putting miles on my heart
+Sweetheart I've been living in a fantasy
+But one day, lightning will strike
+And my bark will lose its bite
+But don't give up on me
+Sweet Annie
+
+[Verse 2]
+Sweet Annie
+I know I promised you life
+But with an empty bed and the words I said don't carry any weight
+If I could take back yesterday, find a way to start it over
+Turn around, put that bottle down and I pray it's not too late
+
+[Chorus 2]
+Sweet Annie
+Can I stay with you a while
+Cause this road's been putting miles on my heart
+Sweetheart I've been living in a fantasy
+But one day, lightning will strike
+And my bark will lose its bite
+But don't give up on me
+What will be will be
+Sweet Annie
+
+[Verse 3]
+Sweet Annie
+Turn out the light
+These hands are made to hold you
+Fall all over you
+All over again
+Come a little closer so I can show you
+My heart still beats fast for you
+All over, and over again
+
+[Chorus 1]
+
+
+--------------------------------------------------
+
+RECORDS WRITTEN: 84
